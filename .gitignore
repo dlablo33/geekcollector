@@ -1,3 +1,4 @@
+
 !/.gitignore
 !/.magento.app.yaml
 !/.magento.env.yaml*
@@ -48,6 +49,7 @@
 !/update/.htaccess
 !/README.md
 !/op-exclude.txt
+
 
 # Start Deployment process
 !Jenkinsfile
