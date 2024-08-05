@@ -1,0 +1,534 @@
+# flyctl launch added from .idea/.gitignore
+# Default ignored files
+.idea/shelf
+.idea/workspace.xml
+# Editor-based HTTP Client requests
+.idea/httpRequests
+# Datasource local storage ignored files
+.idea/dataSources
+.idea/dataSources.local.xml
+
+# flyctl launch added from dev/tests/.gitignore
+dev/tests/**/.phpunit.result.cache
+
+# flyctl launch added from dev/tests/acceptance/.gitignore
+dev/tests/acceptance/**/.idea
+dev/tests/acceptance/**/.env
+dev/tests/acceptance/**/.htaccess
+dev/tests/acceptance/**/codeception.yml
+dev/tests/acceptance/**/tests/_output/*
+dev/tests/acceptance/**/tests/functional.suite.yml
+dev/tests/acceptance/**/tests/functional/Magento/_generated
+dev/tests/acceptance/**/vendor/*
+dev/tests/acceptance/**/mftf.log
+dev/tests/acceptance/.credentials.example
+dev/tests/acceptance/utils
+
+# flyctl launch added from dev/tests/api-functional/.gitignore
+dev/tests/api-functional/*.xml
+dev/tests/api-functional/var
+dev/tests/api-functional/config/*.php
+
+# flyctl launch added from dev/tests/integration/.gitignore
+dev/tests/integration/*.xml
+!dev/tests/integration/etc/integration-tests-config.xml
+dev/tests/integration/var
+dev/tests/integration/etc/*.php
+dev/tests/integration/framework/tests/unit/var/allure-results
+
+# flyctl launch added from dev/tests/integration/tmp/.gitignore
+dev/tests/integration/tmp/*
+!dev/tests/integration/tmp/.gitignore
+
+# flyctl launch added from dev/tests/setup-integration/.gitignore
+dev/tests/setup-integration/*.xml
+dev/tests/setup-integration/var
+dev/tests/setup-integration/etc/*.php
+dev/tests/setup-integration/tmp
+
+# flyctl launch added from dev/tests/static/.gitignore
+dev/tests/static/*.xml
+dev/tests/static/framework/tests/unit/*.xml
+dev/tests/static/framework/tests/unit/var/allure-results
+dev/tests/static/report
+dev/tests/static/tmp
+dev/tests/static/**/allure-results
+
+# flyctl launch added from dev/tests/static/testsuite/Magento/Test/_files/.gitignore
+dev/tests/static/testsuite/Magento/Test/_files/*
+!dev/tests/static/testsuite/Magento/Test/_files/.gitignore
+
+# flyctl launch added from dev/tests/static/tmp/.gitignore
+dev/tests/static/tmp/*
+!dev/tests/static/tmp/.gitignore
+
+# flyctl launch added from dev/tests/unit/.gitignore
+dev/tests/unit/phpunit.xml
+dev/tests/unit/var/allure-results
+
+# flyctl launch added from dev/tests/unit/tmp/.gitignore
+dev/tests/unit/tmp/*
+!dev/tests/unit/tmp/.gitignore
+
+# flyctl launch added from setup/src/Magento/Setup/Test/Unit/Module/I18n/Dictionary/Options/_files/source/app/code/module1/.gitignore
+
+
+# flyctl launch added from setup/src/Magento/Setup/Test/Unit/Module/I18n/Dictionary/Options/_files/source/app/code/module2/.gitignore
+
+
+# flyctl launch added from setup/src/Magento/Setup/Test/Unit/Module/I18n/Dictionary/Options/_files/source/app/design/.gitignore
+
+
+# flyctl launch added from setup/src/Magento/Setup/Test/Unit/Module/I18n/Dictionary/Options/_files/source/lib/web/mage/.gitignore
+
+
+# flyctl launch added from setup/src/Magento/Setup/Test/Unit/Module/I18n/Dictionary/Options/_files/source/lib/web/varien/.gitignore
+
+
+# flyctl launch added from setup/src/Magento/Setup/Test/Unit/Module/I18n/Dictionary/Writer/_files/.gitignore
+
+
+# flyctl launch added from vendor/allure-framework/allure-codeception/.gitignore
+vendor/allure-framework/allure-codeception/**/*.iml
+vendor/allure-framework/allure-codeception/**/.idea
+vendor/allure-framework/allure-codeception/**/vendor/*
+vendor/allure-framework/allure-codeception/**/composer.phar
+vendor/allure-framework/allure-codeception/**/composer.lock
+vendor/allure-framework/allure-codeception/build
+vendor/allure-framework/allure-codeception/test/codeception*/_support/_generated
+vendor/allure-framework/allure-codeception/**/.phpunit.result.cache
+
+
+# flyctl launch added from vendor/allure-framework/allure-php-commons/.gitignore
+vendor/allure-framework/allure-php-commons/**/*.iml
+vendor/allure-framework/allure-php-commons/**/.idea
+vendor/allure-framework/allure-php-commons/**/nbproject
+vendor/allure-framework/allure-php-commons/**/vendor/*
+vendor/allure-framework/allure-php-commons/**/composer.phar
+vendor/allure-framework/allure-php-commons/composer.lock
+vendor/allure-framework/allure-php-commons/**/.phpunit.result.cache
+vendor/allure-framework/allure-php-commons/build
+vendor/allure-framework/allure-php-commons/psalm.xml
+vendor/allure-framework/allure-php-commons/phpunit.xml
+vendor/allure-framework/allure-php-commons/phpcs.xml
+
+
+# flyctl launch added from vendor/allure-framework/allure-phpunit/.gitignore
+vendor/allure-framework/allure-phpunit/build
+vendor/allure-framework/allure-phpunit/vendor
+vendor/allure-framework/allure-phpunit/composer.lock
+vendor/allure-framework/allure-phpunit/phpunit.xml
+vendor/allure-framework/allure-phpunit/phpcs.xml
+vendor/allure-framework/allure-phpunit/psalm.xml
+vendor/allure-framework/allure-phpunit/**/.phpunit.result.cache
+
+# flyctl launch added from vendor/astock/stock-api-libphp/.gitignore
+# composer
+vendor/astock/stock-api-libphp/vendor
+
+# data
+vendor/astock/stock-api-libphp/data
+
+# phpunit
+vendor/astock/stock-api-libphp/phpunit.xml
+
+# ide
+vendor/astock/stock-api-libphp/**/.idea
+
+# osx
+vendor/astock/stock-api-libphp/**/.DS_Store
+
+# misc
+vendor/astock/stock-api-libphp/**/*~
+vendor/astock/stock-api-libphp/**/*#
+vendor/astock/stock-api-libphp/**/TAGS
+vendor/astock/stock-api-libphp/**/.phpunit.result.cache
+
+# flyctl launch added from vendor/codeception/stub/.gitignore
+vendor/codeception/stub/**/.idea
+vendor/codeception/stub/vendor
+vendor/codeception/stub/**/composer.lock
+
+# flyctl launch added from vendor/colinmollenhour/cache-backend-file/.gitignore
+vendor/colinmollenhour/cache-backend-file/**/.basedir
+vendor/colinmollenhour/cache-backend-file/**/.idea
+vendor/colinmollenhour/cache-backend-file/**/vendor
+vendor/colinmollenhour/cache-backend-file/**/composer.lock
+vendor/colinmollenhour/cache-backend-file/**/.php-cs-fixer.cache
+
+# flyctl launch added from vendor/colinmollenhour/cache-backend-redis/.gitignore
+vendor/colinmollenhour/cache-backend-redis/**/.basedir
+vendor/colinmollenhour/cache-backend-redis/**/vendor
+vendor/colinmollenhour/cache-backend-redis/**/composer.lock
+vendor/colinmollenhour/cache-backend-redis/.php-cs-fixer.cache
+
+# flyctl launch added from vendor/colinmollenhour/php-redis-session-abstract/.gitignore
+vendor/colinmollenhour/php-redis-session-abstract/**/vendor
+vendor/colinmollenhour/php-redis-session-abstract/**/.idea
+vendor/colinmollenhour/php-redis-session-abstract/**/phpunit.xml
+vendor/colinmollenhour/php-redis-session-abstract/**/composer.lock
+
+# flyctl launch added from vendor/csharpru/vault-php/.gitignore
+vendor/csharpru/vault-php/**/.idea
+vendor/csharpru/vault-php/**/vendor
+vendor/csharpru/vault-php/**/composer.lock
+
+# flyctl launch added from vendor/csharpru/vault-php/tests/.gitignore
+vendor/csharpru/vault-php/tests/**/_output
+
+# flyctl launch added from vendor/csharpru/vault-php/tests/_support/.gitignore
+vendor/csharpru/vault-php/tests/_support/**/_generated
+
+# flyctl launch added from vendor/endroid/qr-code/.gitignore
+vendor/endroid/qr-code/composer
+vendor/endroid/qr-code/composer.lock
+vendor/endroid/qr-code/tests/coverage
+vendor/endroid/qr-code/vendor
+
+# flyctl launch added from vendor/ezimuel/guzzlestreams/.gitignore
+vendor/ezimuel/guzzlestreams/**/.idea
+vendor/ezimuel/guzzlestreams/**/.DS_STORE
+vendor/ezimuel/guzzlestreams/**/coverage
+vendor/ezimuel/guzzlestreams/**/phpunit.xml
+vendor/ezimuel/guzzlestreams/**/composer.lock
+vendor/ezimuel/guzzlestreams/**/vendor
+vendor/ezimuel/guzzlestreams/**/.vscode
+vendor/ezimuel/guzzlestreams/**/.phpunit.result.cache
+
+# flyctl launch added from vendor/laminas/laminas-oauth/.gitignore
+vendor/laminas/laminas-oauth/.phpunit.result.cache
+vendor/laminas/laminas-oauth/vendor
+
+# flyctl launch added from vendor/magento/composer-dependency-version-audit-plugin/.gitignore
+vendor/magento/composer-dependency-version-audit-plugin/**/.idea
+
+
+# flyctl launch added from vendor/magento/framework/Test/Unit/_files/archives/.gitignore
+vendor/magento/framework/Test/Unit/_files/archives/*
+!vendor/magento/framework/Test/Unit/_files/archives/.gitignore
+
+# flyctl launch added from vendor/magento/inventory-composer-installer/.gitignore
+vendor/magento/inventory-composer-installer/vendor/*
+vendor/magento/inventory-composer-installer/composer.lock
+
+vendor/magento/inventory-composer-installer/.buildpath
+vendor/magento/inventory-composer-installer/.cache
+vendor/magento/inventory-composer-installer/.metadata
+vendor/magento/inventory-composer-installer/.project
+vendor/magento/inventory-composer-installer/.settings
+vendor/magento/inventory-composer-installer/.vscode
+vendor/magento/inventory-composer-installer/nbproject
+vendor/magento/inventory-composer-installer/.idea
+vendor/magento/inventory-composer-installer/.gitattributes
+vendor/magento/inventory-composer-installer/**/.DS_Store
+
+# flyctl launch added from vendor/magento/magento-cloud-patches/.gitignore
+vendor/magento/magento-cloud-patches/**/.DS_Store
+vendor/magento/magento-cloud-patches/.idea
+vendor/magento/magento-cloud-patches/vendor
+vendor/magento/magento-cloud-patches/composer.phar
+vendor/magento/magento-cloud-patches/composer.lock
+vendor/magento/magento-cloud-patches/auth.json
+vendor/magento/magento-cloud-patches/codeception.yml
+vendor/magento/magento-cloud-patches/_workdir
+
+# flyctl launch added from vendor/magento/magento-cloud-patches/bin/.gitignore
+vendor/magento/magento-cloud-patches/bin/dev-ece-patches
+
+# flyctl launch added from vendor/magento/magento-cloud-patches/tests/functional/_output/.gitignore
+vendor/magento/magento-cloud-patches/tests/functional/_output/**/*
+!vendor/magento/magento-cloud-patches/tests/functional/_output/**/.gitignore
+
+# flyctl launch added from vendor/magento/magento-cloud-patches/tests/unit/.gitignore
+vendor/magento/magento-cloud-patches/tests/unit/phpunit.xml
+
+# flyctl launch added from vendor/magento/magento-cloud-patches/tests/unit/var/.gitignore
+vendor/magento/magento-cloud-patches/tests/unit/var/**/*
+!vendor/magento/magento-cloud-patches/tests/unit/var/**/.gitignore
+
+# flyctl launch added from vendor/magento/magento-coding-standard/.gitignore
+vendor/magento/magento-coding-standard/vendor/*
+vendor/magento/magento-coding-standard/bin/*
+vendor/magento/magento-coding-standard/node_modules
+
+# IDE files
+vendor/magento/magento-coding-standard/**/.idea
+vendor/magento/magento-coding-standard/**/.project
+vendor/magento/magento-coding-standard/**/.settings
+vendor/magento/magento-coding-standard/**/.vscode
+
+vendor/magento/magento-coding-standard/**/.phpunit.result.cache
+vendor/magento/magento-coding-standard/**/.DS_Store
+vendor/magento/magento-coding-standard/**/phpunit.xml
+
+# flyctl launch added from vendor/magento/magento2-base/dev/tests/.gitignore
+vendor/magento/magento2-base/dev/tests/**/.phpunit.result.cache
+
+# flyctl launch added from vendor/magento/magento2-base/dev/tests/acceptance/.gitignore
+vendor/magento/magento2-base/dev/tests/acceptance/**/.idea
+vendor/magento/magento2-base/dev/tests/acceptance/**/.env
+vendor/magento/magento2-base/dev/tests/acceptance/**/.htaccess
+vendor/magento/magento2-base/dev/tests/acceptance/**/codeception.yml
+vendor/magento/magento2-base/dev/tests/acceptance/**/tests/_output/*
+vendor/magento/magento2-base/dev/tests/acceptance/**/tests/functional.suite.yml
+vendor/magento/magento2-base/dev/tests/acceptance/**/tests/functional/Magento/_generated
+vendor/magento/magento2-base/dev/tests/acceptance/**/vendor/*
+vendor/magento/magento2-base/dev/tests/acceptance/**/mftf.log
+vendor/magento/magento2-base/dev/tests/acceptance/.credentials.example
+vendor/magento/magento2-base/dev/tests/acceptance/utils
+
+# flyctl launch added from vendor/magento/magento2-base/dev/tests/api-functional/.gitignore
+vendor/magento/magento2-base/dev/tests/api-functional/*.xml
+vendor/magento/magento2-base/dev/tests/api-functional/var
+vendor/magento/magento2-base/dev/tests/api-functional/config/*.php
+
+# flyctl launch added from vendor/magento/magento2-base/dev/tests/integration/.gitignore
+vendor/magento/magento2-base/dev/tests/integration/*.xml
+!vendor/magento/magento2-base/dev/tests/integration/etc/integration-tests-config.xml
+vendor/magento/magento2-base/dev/tests/integration/var
+vendor/magento/magento2-base/dev/tests/integration/etc/*.php
+vendor/magento/magento2-base/dev/tests/integration/framework/tests/unit/var/allure-results
+
+# flyctl launch added from vendor/magento/magento2-base/dev/tests/integration/tmp/.gitignore
+vendor/magento/magento2-base/dev/tests/integration/tmp/*
+!vendor/magento/magento2-base/dev/tests/integration/tmp/.gitignore
+
+# flyctl launch added from vendor/magento/magento2-base/dev/tests/setup-integration/.gitignore
+vendor/magento/magento2-base/dev/tests/setup-integration/*.xml
+vendor/magento/magento2-base/dev/tests/setup-integration/var
+vendor/magento/magento2-base/dev/tests/setup-integration/etc/*.php
+vendor/magento/magento2-base/dev/tests/setup-integration/tmp
+
+# flyctl launch added from vendor/magento/magento2-base/dev/tests/static/.gitignore
+vendor/magento/magento2-base/dev/tests/static/*.xml
+vendor/magento/magento2-base/dev/tests/static/framework/tests/unit/*.xml
+vendor/magento/magento2-base/dev/tests/static/framework/tests/unit/var/allure-results
+vendor/magento/magento2-base/dev/tests/static/report
+vendor/magento/magento2-base/dev/tests/static/tmp
+vendor/magento/magento2-base/dev/tests/static/**/allure-results
+
+# flyctl launch added from vendor/magento/magento2-base/dev/tests/static/testsuite/Magento/Test/_files/.gitignore
+vendor/magento/magento2-base/dev/tests/static/testsuite/Magento/Test/_files/*
+!vendor/magento/magento2-base/dev/tests/static/testsuite/Magento/Test/_files/.gitignore
+
+# flyctl launch added from vendor/magento/magento2-base/dev/tests/static/tmp/.gitignore
+vendor/magento/magento2-base/dev/tests/static/tmp/*
+!vendor/magento/magento2-base/dev/tests/static/tmp/.gitignore
+
+# flyctl launch added from vendor/magento/magento2-base/dev/tests/unit/.gitignore
+vendor/magento/magento2-base/dev/tests/unit/phpunit.xml
+vendor/magento/magento2-base/dev/tests/unit/var/allure-results
+
+# flyctl launch added from vendor/magento/magento2-base/dev/tests/unit/tmp/.gitignore
+vendor/magento/magento2-base/dev/tests/unit/tmp/*
+!vendor/magento/magento2-base/dev/tests/unit/tmp/.gitignore
+
+# flyctl launch added from vendor/magento/magento2-base/setup/src/Magento/Setup/Test/Unit/Module/I18n/Dictionary/Options/_files/source/app/code/module1/.gitignore
+
+
+# flyctl launch added from vendor/magento/magento2-base/setup/src/Magento/Setup/Test/Unit/Module/I18n/Dictionary/Options/_files/source/app/code/module2/.gitignore
+
+
+# flyctl launch added from vendor/magento/magento2-base/setup/src/Magento/Setup/Test/Unit/Module/I18n/Dictionary/Options/_files/source/app/design/.gitignore
+
+
+# flyctl launch added from vendor/magento/magento2-base/setup/src/Magento/Setup/Test/Unit/Module/I18n/Dictionary/Options/_files/source/lib/web/mage/.gitignore
+
+
+# flyctl launch added from vendor/magento/magento2-base/setup/src/Magento/Setup/Test/Unit/Module/I18n/Dictionary/Options/_files/source/lib/web/varien/.gitignore
+
+
+# flyctl launch added from vendor/magento/magento2-base/setup/src/Magento/Setup/Test/Unit/Module/I18n/Dictionary/Writer/_files/.gitignore
+
+
+# flyctl launch added from vendor/magento/magento2-functional-testing-framework/.gitignore
+vendor/magento/magento2-functional-testing-framework/**/.idea
+vendor/magento/magento2-functional-testing-framework/**/composer.phar
+vendor/magento/magento2-functional-testing-framework/**/vendor/*
+vendor/magento/magento2-functional-testing-framework/**/.env
+vendor/magento/magento2-functional-testing-framework/**/_generated
+vendor/magento/magento2-functional-testing-framework/**/AcceptanceTester.php
+vendor/magento/magento2-functional-testing-framework/**/cghooks.lock
+vendor/magento/magento2-functional-testing-framework/**/src/Magento/FunctionalTestingFramework/Group/*.php
+vendor/magento/magento2-functional-testing-framework/**/.DS_Store
+vendor/magento/magento2-functional-testing-framework/**/build/*
+vendor/magento/magento2-functional-testing-framework/**/clover.xml
+vendor/magento/magento2-functional-testing-framework/**/coverage
+vendor/magento/magento2-functional-testing-framework/**/.vscode
+vendor/magento/magento2-functional-testing-framework/**/codeception.yml
+vendor/magento/magento2-functional-testing-framework/**/dev/tests/functional/MFTF.suite.yml
+vendor/magento/magento2-functional-testing-framework/**/dev/tests/functional/_output
+vendor/magento/magento2-functional-testing-framework/**/dev/mftf.log
+vendor/magento/magento2-functional-testing-framework/**/dev/tests/mftf.log
+vendor/magento/magento2-functional-testing-framework/**/dev/tests/docs/*
+vendor/magento/magento2-functional-testing-framework/**/dev/tests/_output
+vendor/magento/magento2-functional-testing-framework/**/dev/tests/functional.suite.yml
+vendor/magento/magento2-functional-testing-framework/v2
+vendor/magento/magento2-functional-testing-framework/**/dev/.credentials.example
+vendor/magento/magento2-functional-testing-framework/**/dev/tests/.phpunit.result.cache
+vendor/magento/magento2-functional-testing-framework/**/dev/tests/verification/TestModule/Test/testFile.xml
+
+# flyctl launch added from vendor/magento/magento2-functional-testing-framework/dev/tests/.cache/.gitignore
+# Ignore everything in this directory
+vendor/magento/magento2-functional-testing-framework/dev/tests/.cache/**/*
+# Except this file
+!vendor/magento/magento2-functional-testing-framework/dev/tests/.cache/**/.gitignore
+
+# flyctl launch added from vendor/magento/quality-patches/.gitignore
+vendor/magento/quality-patches/**/.DS_Store
+vendor/magento/quality-patches/.idea
+vendor/magento/quality-patches/vendor
+vendor/magento/quality-patches/composer.phar
+vendor/magento/quality-patches/composer.lock
+vendor/magento/quality-patches/auth.json
+vendor/magento/quality-patches/codeception.yml
+vendor/magento/quality-patches/_workdir
+vendor/magento/quality-patches/tests/integrity/.phpunit.result.cache
+
+# flyctl launch added from vendor/magento/quality-patches/tests/functional/_output/.gitignore
+vendor/magento/quality-patches/tests/functional/_output/**/*
+!vendor/magento/quality-patches/tests/functional/_output/**/.gitignore
+
+# flyctl launch added from vendor/magento/quality-patches/tests/integrity/.gitignore
+vendor/magento/quality-patches/tests/integrity/phpunit.xml
+
+# flyctl launch added from vendor/magento/zend-cache/.gitignore
+vendor/magento/zend-cache/.buildpath
+vendor/magento/zend-cache/.cache
+vendor/magento/zend-cache/.metadata
+vendor/magento/zend-cache/.project
+vendor/magento/zend-cache/.settings
+vendor/magento/zend-cache/.vscode
+vendor/magento/zend-cache/.idea
+vendor/magento/zend-cache/**/vendor/*
+vendor/magento/zend-cache/**/composer.lock
+vendor/magento/zend-cache/**/.DS_Store
+
+# flyctl launch added from vendor/magento/zend-db/.gitignore
+vendor/magento/zend-db/.buildpath
+vendor/magento/zend-db/.cache
+vendor/magento/zend-db/.metadata
+vendor/magento/zend-db/.project
+vendor/magento/zend-db/.settings
+vendor/magento/zend-db/.vscode
+vendor/magento/zend-db/.idea
+vendor/magento/zend-db/**/vendor/*
+vendor/magento/zend-db/**/composer.lock
+vendor/magento/zend-db/**/.DS_Store
+
+# flyctl launch added from vendor/magento/zend-exception/.gitignore
+vendor/magento/zend-exception/.buildpath
+vendor/magento/zend-exception/.cache
+vendor/magento/zend-exception/.metadata
+vendor/magento/zend-exception/.project
+vendor/magento/zend-exception/.settings
+vendor/magento/zend-exception/.vscode
+vendor/magento/zend-exception/.idea
+vendor/magento/zend-exception/**/vendor/*
+vendor/magento/zend-exception/**/composer.lock
+vendor/magento/zend-exception/**/.DS_Store
+
+# flyctl launch added from vendor/magento/zend-loader/.gitignore
+vendor/magento/zend-loader/.buildpath
+vendor/magento/zend-loader/.cache
+vendor/magento/zend-loader/.metadata
+vendor/magento/zend-loader/.project
+vendor/magento/zend-loader/.settings
+vendor/magento/zend-loader/.vscode
+vendor/magento/zend-loader/.idea
+vendor/magento/zend-loader/**/vendor/*
+vendor/magento/zend-loader/**/composer.lock
+vendor/magento/zend-loader/**/.DS_Store
+
+# flyctl launch added from vendor/magento/zend-log/.gitignore
+vendor/magento/zend-log/.buildpath
+vendor/magento/zend-log/.cache
+vendor/magento/zend-log/.metadata
+vendor/magento/zend-log/.project
+vendor/magento/zend-log/.settings
+vendor/magento/zend-log/.vscode
+vendor/magento/zend-log/.idea
+vendor/magento/zend-log/**/vendor/*
+vendor/magento/zend-log/**/composer.lock
+vendor/magento/zend-log/**/.DS_Store
+
+# flyctl launch added from vendor/magento/zend-memory/.gitignore
+vendor/magento/zend-memory/.buildpath
+vendor/magento/zend-memory/.cache
+vendor/magento/zend-memory/.metadata
+vendor/magento/zend-memory/.project
+vendor/magento/zend-memory/.settings
+vendor/magento/zend-memory/.vscode
+vendor/magento/zend-memory/.idea
+vendor/magento/zend-memory/**/vendor/*
+vendor/magento/zend-memory/**/composer.lock
+vendor/magento/zend-memory/**/.DS_Store
+
+# flyctl launch added from vendor/magento/zend-pdf/.gitignore
+vendor/magento/zend-pdf/.buildpath
+vendor/magento/zend-pdf/.cache
+vendor/magento/zend-pdf/.metadata
+vendor/magento/zend-pdf/.project
+vendor/magento/zend-pdf/.settings
+vendor/magento/zend-pdf/.vscode
+vendor/magento/zend-pdf/.idea
+vendor/magento/zend-pdf/**/vendor/*
+vendor/magento/zend-pdf/**/composer.lock
+vendor/magento/zend-pdf/**/.DS_Store
+
+# flyctl launch added from vendor/paypal/module-braintree-core/.gitignore
+vendor/paypal/module-braintree-core/**/.DS_STORE
+vendor/paypal/module-braintree-core/.idea
+
+# flyctl launch added from vendor/phpgt/cssxpath/.gitignore
+vendor/phpgt/cssxpath/vendor
+vendor/phpgt/cssxpath/.idea
+vendor/phpgt/cssxpath/test/unit/_coverage
+vendor/phpgt/cssxpath/composer.phar
+vendor/phpgt/cssxpath/**/.phpunit.*
+
+# flyctl launch added from vendor/phpgt/dom/.gitignore
+vendor/phpgt/dom/vendor
+vendor/phpgt/dom/.idea
+vendor/phpgt/dom/test/phpunit/_coverage
+vendor/phpgt/dom/**/.phpunit.result.cache
+
+# flyctl launch added from vendor/psr/container/.gitignore
+vendor/psr/container/**/composer.lock
+vendor/psr/container/**/composer.phar
+vendor/psr/container/vendor
+
+# flyctl launch added from vendor/psr/event-dispatcher/.gitignore
+vendor/psr/event-dispatcher/vendor
+vendor/psr/event-dispatcher/**/composer.lock
+
+# flyctl launch added from vendor/sebastian/phpcpd/.gitignore
+vendor/sebastian/phpcpd/build/phar
+vendor/sebastian/phpcpd/build/*.phar*
+vendor/sebastian/phpcpd/.idea
+vendor/sebastian/phpcpd/vendor
+vendor/sebastian/phpcpd/.php_cs
+vendor/sebastian/phpcpd/.php_cs.cache
+vendor/sebastian/phpcpd/.phpunit.cache
+vendor/sebastian/phpcpd/composer.lock
+
+# flyctl launch added from vendor/sebastian/version/.gitignore
+vendor/sebastian/version/.php_cs.cache
+vendor/sebastian/version/.idea
+
+# flyctl launch added from vendor/seld/phar-utils/.gitignore
+vendor/seld/phar-utils/vendor
+
+# flyctl launch added from vendor/tubalmartin/cssmin/.gitignore
+vendor/tubalmartin/cssmin/**/.*
+!vendor/tubalmartin/cssmin/.gitignore
+vendor/tubalmartin/cssmin/vendor
+vendor/tubalmartin/cssmin/**/composer.lock
+vendor/tubalmartin/cssmin/**/composer.phar
+
+# flyctl launch added from vendor/weew/helpers-array/.gitignore
+vendor/weew/helpers-array/**/vendor
+vendor/weew/helpers-array/**/.idea
+vendor/weew/helpers-array/**/composer.lock
+vendor/weew/helpers-array/**/build
+fly.toml

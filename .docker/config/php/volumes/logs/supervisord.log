@@ -1,0 +1,384 @@
+2024-06-08 08:14:23,203 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-08 08:14:23,203 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-08 08:14:23,211 INFO RPC interface 'supervisor' initialized
+2024-06-08 08:14:23,211 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-08 08:14:23,212 INFO daemonizing the supervisord process
+2024-06-08 08:14:23,213 INFO supervisord started with pid 15
+2024-06-08 08:15:58,114 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-08 08:15:58,114 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-08 08:15:58,419 INFO RPC interface 'supervisor' initialized
+2024-06-08 08:15:58,419 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-08 08:15:58,420 INFO daemonizing the supervisord process
+2024-06-08 08:15:58,421 INFO supervisord started with pid 17
+2024-06-09 03:03:56,200 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-09 03:03:56,200 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-09 03:03:56,508 INFO RPC interface 'supervisor' initialized
+2024-06-09 03:03:56,508 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-09 03:03:56,510 INFO daemonizing the supervisord process
+2024-06-09 03:03:56,511 INFO supervisord started with pid 17
+2024-06-09 03:09:19,577 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-09 03:09:19,577 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-09 03:09:19,882 INFO RPC interface 'supervisor' initialized
+2024-06-09 03:09:19,882 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-09 03:09:19,884 INFO daemonizing the supervisord process
+2024-06-09 03:09:19,885 INFO supervisord started with pid 15
+2024-06-09 03:35:57,221 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-09 03:35:57,221 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-09 03:35:57,223 INFO RPC interface 'supervisor' initialized
+2024-06-09 03:35:57,223 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-09 03:35:57,224 INFO daemonizing the supervisord process
+2024-06-09 03:35:57,225 INFO supervisord started with pid 15
+2024-06-09 06:17:24,762 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-09 06:17:24,762 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-09 06:17:24,766 INFO RPC interface 'supervisor' initialized
+2024-06-09 06:17:24,766 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-09 06:17:24,767 INFO daemonizing the supervisord process
+2024-06-09 06:17:24,768 INFO supervisord started with pid 16
+2024-06-09 06:18:12,610 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-09 06:18:12,610 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-09 06:18:12,914 INFO RPC interface 'supervisor' initialized
+2024-06-09 06:18:12,915 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-09 06:18:12,916 INFO daemonizing the supervisord process
+2024-06-09 06:18:12,916 INFO supervisord started with pid 15
+2024-06-09 06:18:59,425 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-09 06:18:59,425 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-09 06:18:59,429 INFO RPC interface 'supervisor' initialized
+2024-06-09 06:18:59,430 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-09 06:18:59,431 INFO daemonizing the supervisord process
+2024-06-09 06:18:59,432 INFO supervisord started with pid 15
+2024-06-09 07:28:58,814 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-09 07:28:58,814 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-09 07:28:59,120 INFO RPC interface 'supervisor' initialized
+2024-06-09 07:28:59,120 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-09 07:28:59,121 INFO daemonizing the supervisord process
+2024-06-09 07:28:59,122 INFO supervisord started with pid 15
+2024-06-09 07:37:20,992 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-09 07:37:20,992 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-09 07:37:21,298 INFO RPC interface 'supervisor' initialized
+2024-06-09 07:37:21,298 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-09 07:37:21,299 INFO daemonizing the supervisord process
+2024-06-09 07:37:21,300 INFO supervisord started with pid 17
+2024-06-09 07:51:21,050 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-09 07:51:21,050 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-09 07:51:21,354 INFO RPC interface 'supervisor' initialized
+2024-06-09 07:51:21,354 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-09 07:51:21,355 INFO daemonizing the supervisord process
+2024-06-09 07:51:21,356 INFO supervisord started with pid 16
+2024-06-09 08:09:21,281 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-09 08:09:21,281 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-09 08:09:21,586 INFO RPC interface 'supervisor' initialized
+2024-06-09 08:09:21,586 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-09 08:09:21,588 INFO daemonizing the supervisord process
+2024-06-09 08:09:21,588 INFO supervisord started with pid 15
+2024-06-09 08:37:00,554 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-09 08:37:00,555 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-09 08:37:00,860 INFO RPC interface 'supervisor' initialized
+2024-06-09 08:37:00,860 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-09 08:37:00,862 INFO daemonizing the supervisord process
+2024-06-09 08:37:00,863 INFO supervisord started with pid 15
+2024-06-09 09:28:47,967 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-09 09:28:47,967 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-09 09:28:47,972 INFO RPC interface 'supervisor' initialized
+2024-06-09 09:28:47,972 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-09 09:28:47,974 INFO daemonizing the supervisord process
+2024-06-09 09:28:47,975 INFO supervisord started with pid 16
+2024-06-10 05:21:34,286 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-10 05:21:34,286 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-10 05:21:34,290 INFO RPC interface 'supervisor' initialized
+2024-06-10 05:21:34,291 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-10 05:21:34,292 INFO daemonizing the supervisord process
+2024-06-10 05:21:34,293 INFO supervisord started with pid 14
+2024-06-10 05:22:33,971 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-10 05:22:33,971 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-10 05:22:33,976 INFO RPC interface 'supervisor' initialized
+2024-06-10 05:22:33,976 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-10 05:22:33,977 INFO daemonizing the supervisord process
+2024-06-10 05:22:33,978 INFO supervisord started with pid 16
+2024-06-10 05:32:04,616 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-10 05:32:04,616 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-10 05:32:04,620 INFO RPC interface 'supervisor' initialized
+2024-06-10 05:32:04,621 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-10 05:32:04,622 INFO daemonizing the supervisord process
+2024-06-10 05:32:04,623 INFO supervisord started with pid 16
+2024-06-10 06:43:37,018 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-10 06:43:37,018 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-10 06:43:37,023 INFO RPC interface 'supervisor' initialized
+2024-06-10 06:43:37,023 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-10 06:43:37,025 INFO daemonizing the supervisord process
+2024-06-10 06:43:37,025 INFO supervisord started with pid 16
+2024-06-10 06:44:55,038 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-10 06:44:55,038 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-10 06:44:55,043 INFO RPC interface 'supervisor' initialized
+2024-06-10 06:44:55,043 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-10 06:44:55,044 INFO daemonizing the supervisord process
+2024-06-10 06:44:55,045 INFO supervisord started with pid 15
+2024-06-10 06:50:51,328 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-10 06:50:51,328 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-10 06:50:51,335 INFO RPC interface 'supervisor' initialized
+2024-06-10 06:50:51,335 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-10 06:50:51,337 INFO daemonizing the supervisord process
+2024-06-10 06:50:51,338 INFO supervisord started with pid 15
+2024-06-10 06:56:42,030 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-10 06:56:42,031 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-10 06:56:42,035 INFO RPC interface 'supervisor' initialized
+2024-06-10 06:56:42,036 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-10 06:56:42,037 INFO daemonizing the supervisord process
+2024-06-10 06:56:42,038 INFO supervisord started with pid 15
+2024-06-10 07:03:33,458 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-10 07:03:33,458 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-10 07:03:33,463 INFO RPC interface 'supervisor' initialized
+2024-06-10 07:03:33,463 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-10 07:03:33,465 INFO daemonizing the supervisord process
+2024-06-10 07:03:33,466 INFO supervisord started with pid 15
+2024-06-11 07:09:49,461 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-11 07:09:49,461 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-11 07:09:49,766 INFO RPC interface 'supervisor' initialized
+2024-06-11 07:09:49,766 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-11 07:09:49,767 INFO daemonizing the supervisord process
+2024-06-11 07:09:49,768 INFO supervisord started with pid 15
+2024-06-11 16:18:29,467 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-11 16:18:29,467 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-11 16:18:29,784 INFO RPC interface 'supervisor' initialized
+2024-06-11 16:18:29,785 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-11 16:18:29,789 INFO daemonizing the supervisord process
+2024-06-11 16:18:29,791 INFO supervisord started with pid 15
+2024-06-11 16:22:24,154 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-11 16:22:24,154 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-11 16:22:24,458 INFO RPC interface 'supervisor' initialized
+2024-06-11 16:22:24,458 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-11 16:22:24,460 INFO daemonizing the supervisord process
+2024-06-11 16:22:24,460 INFO supervisord started with pid 15
+2024-06-11 18:42:53,156 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-11 18:42:53,156 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-11 18:42:53,161 INFO RPC interface 'supervisor' initialized
+2024-06-11 18:42:53,161 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-11 18:42:53,162 INFO daemonizing the supervisord process
+2024-06-11 18:42:53,163 INFO supervisord started with pid 17
+2024-06-11 18:47:52,884 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-11 18:47:52,884 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-11 18:47:52,889 INFO RPC interface 'supervisor' initialized
+2024-06-11 18:47:52,890 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-11 18:47:52,891 INFO daemonizing the supervisord process
+2024-06-11 18:47:52,892 INFO supervisord started with pid 15
+2024-06-11 19:07:07,378 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-11 19:07:07,378 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-11 19:07:07,683 INFO RPC interface 'supervisor' initialized
+2024-06-11 19:07:07,683 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-11 19:07:07,685 INFO daemonizing the supervisord process
+2024-06-11 19:07:07,686 INFO supervisord started with pid 15
+2024-06-18 15:21:38,861 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 15:21:38,861 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-18 15:21:38,866 INFO RPC interface 'supervisor' initialized
+2024-06-18 15:21:38,866 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 15:21:38,868 INFO daemonizing the supervisord process
+2024-06-18 15:21:38,869 INFO supervisord started with pid 16
+2024-06-20 07:38:39,226 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-20 07:38:39,226 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-20 07:38:39,531 INFO RPC interface 'supervisor' initialized
+2024-06-20 07:38:39,531 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-20 07:38:39,532 INFO daemonizing the supervisord process
+2024-06-20 07:38:39,533 INFO supervisord started with pid 15
+2024-06-20 08:15:39,266 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-20 08:15:39,266 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-20 08:15:39,268 INFO RPC interface 'supervisor' initialized
+2024-06-20 08:15:39,268 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-20 08:15:39,269 INFO daemonizing the supervisord process
+2024-06-20 08:15:39,270 INFO supervisord started with pid 16
+2024-06-22 17:19:43,689 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-22 17:19:43,690 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-22 17:19:43,694 INFO RPC interface 'supervisor' initialized
+2024-06-22 17:19:43,694 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-22 17:19:43,695 INFO daemonizing the supervisord process
+2024-06-22 17:19:43,696 INFO supervisord started with pid 16
+2024-06-22 18:08:53,598 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-22 18:08:53,598 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-22 18:08:53,904 INFO RPC interface 'supervisor' initialized
+2024-06-22 18:08:53,904 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-22 18:08:53,905 INFO daemonizing the supervisord process
+2024-06-22 18:08:53,906 INFO supervisord started with pid 15
+2024-06-22 20:06:04,050 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-22 20:06:04,050 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-22 20:06:04,054 INFO RPC interface 'supervisor' initialized
+2024-06-22 20:06:04,054 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-22 20:06:04,055 INFO daemonizing the supervisord process
+2024-06-22 20:06:04,056 INFO supervisord started with pid 17
+2024-06-22 20:20:28,656 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-22 20:20:28,656 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-22 20:20:28,962 INFO RPC interface 'supervisor' initialized
+2024-06-22 20:20:28,962 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-22 20:20:28,964 INFO daemonizing the supervisord process
+2024-06-22 20:20:28,965 INFO supervisord started with pid 16
+2024-06-23 06:54:49,510 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-23 06:54:49,510 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-23 06:54:49,517 INFO RPC interface 'supervisor' initialized
+2024-06-23 06:54:49,517 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-23 06:54:49,518 INFO daemonizing the supervisord process
+2024-06-23 06:54:49,519 INFO supervisord started with pid 15
+2024-06-23 07:03:54,535 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-23 07:03:54,535 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-23 07:03:54,839 INFO RPC interface 'supervisor' initialized
+2024-06-23 07:03:54,839 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-23 07:03:54,840 INFO daemonizing the supervisord process
+2024-06-23 07:03:54,840 INFO supervisord started with pid 15
+2024-06-23 08:16:02,429 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-23 08:16:02,429 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-23 08:16:02,433 INFO RPC interface 'supervisor' initialized
+2024-06-23 08:16:02,433 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-23 08:16:02,435 INFO daemonizing the supervisord process
+2024-06-23 08:16:02,435 INFO supervisord started with pid 16
+2024-06-24 04:56:44,228 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-24 04:56:44,228 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-24 04:56:44,235 INFO RPC interface 'supervisor' initialized
+2024-06-24 04:56:44,236 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-24 04:56:44,238 INFO daemonizing the supervisord process
+2024-06-24 04:56:44,239 INFO supervisord started with pid 15
+2024-06-24 05:27:56,741 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-24 05:27:56,741 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-24 05:27:56,748 INFO RPC interface 'supervisor' initialized
+2024-06-24 05:27:56,749 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-24 05:27:56,751 INFO daemonizing the supervisord process
+2024-06-24 05:27:56,752 INFO supervisord started with pid 15
+2024-06-24 05:33:17,282 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-24 05:33:17,282 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-24 05:33:17,588 INFO RPC interface 'supervisor' initialized
+2024-06-24 05:33:17,588 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-24 05:33:17,590 INFO daemonizing the supervisord process
+2024-06-24 05:33:17,591 INFO supervisord started with pid 15
+2024-06-24 05:42:08,390 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-24 05:42:08,390 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-24 05:42:08,394 INFO RPC interface 'supervisor' initialized
+2024-06-24 05:42:08,395 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-24 05:42:08,396 INFO daemonizing the supervisord process
+2024-06-24 05:42:08,397 INFO supervisord started with pid 14
+2024-06-24 05:45:35,101 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-24 05:45:35,101 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-24 05:45:35,106 INFO RPC interface 'supervisor' initialized
+2024-06-24 05:45:35,106 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-24 05:45:35,107 INFO daemonizing the supervisord process
+2024-06-24 05:45:35,108 INFO supervisord started with pid 16
+2024-06-24 05:53:38,027 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-24 05:53:38,027 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-24 05:53:38,032 INFO RPC interface 'supervisor' initialized
+2024-06-24 05:53:38,032 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-24 05:53:38,034 INFO daemonizing the supervisord process
+2024-06-24 05:53:38,034 INFO supervisord started with pid 16
+2024-06-24 06:16:23,670 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-24 06:16:23,670 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-24 06:16:23,675 INFO RPC interface 'supervisor' initialized
+2024-06-24 06:16:23,675 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-24 06:16:23,677 INFO daemonizing the supervisord process
+2024-06-24 06:16:23,678 INFO supervisord started with pid 15
+2024-06-24 06:27:00,090 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-24 06:27:00,090 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-24 06:27:00,396 INFO RPC interface 'supervisor' initialized
+2024-06-24 06:27:00,396 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-24 06:27:00,398 INFO daemonizing the supervisord process
+2024-06-24 06:27:00,399 INFO supervisord started with pid 15
+2024-06-24 06:31:32,770 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-24 06:31:32,770 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-24 06:31:32,776 INFO RPC interface 'supervisor' initialized
+2024-06-24 06:31:32,776 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-24 06:31:32,777 INFO daemonizing the supervisord process
+2024-06-24 06:31:32,778 INFO supervisord started with pid 15
+2024-06-24 07:22:23,398 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-24 07:22:23,398 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-24 07:22:23,702 INFO RPC interface 'supervisor' initialized
+2024-06-24 07:22:23,703 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-24 07:22:23,705 INFO daemonizing the supervisord process
+2024-06-24 07:22:23,706 INFO supervisord started with pid 15
+2024-06-24 07:58:04,662 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-24 07:58:04,662 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-24 07:58:04,970 INFO RPC interface 'supervisor' initialized
+2024-06-24 07:58:04,970 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-24 07:58:04,972 INFO daemonizing the supervisord process
+2024-06-24 07:58:04,973 INFO supervisord started with pid 17
+2024-06-24 08:19:55,250 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-24 08:19:55,250 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-24 08:19:55,558 INFO RPC interface 'supervisor' initialized
+2024-06-24 08:19:55,558 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-24 08:19:55,560 INFO daemonizing the supervisord process
+2024-06-24 08:19:55,561 INFO supervisord started with pid 15
+2024-06-29 08:09:09,066 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-29 08:09:09,067 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-06-29 08:09:09,374 INFO RPC interface 'supervisor' initialized
+2024-06-29 08:09:09,374 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-29 08:09:09,376 INFO daemonizing the supervisord process
+2024-06-29 08:09:09,376 INFO supervisord started with pid 15
+2024-07-02 07:30:45,154 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-02 07:30:45,154 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-07-02 07:30:45,460 INFO RPC interface 'supervisor' initialized
+2024-07-02 07:30:45,460 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-07-02 07:30:45,461 INFO daemonizing the supervisord process
+2024-07-02 07:30:45,461 INFO supervisord started with pid 19
+2024-07-05 06:29:28,631 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-05 06:29:28,631 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-07-05 06:29:28,938 INFO RPC interface 'supervisor' initialized
+2024-07-05 06:29:28,938 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-07-05 06:29:28,940 INFO daemonizing the supervisord process
+2024-07-05 06:29:28,940 INFO supervisord started with pid 16
+2024-07-10 21:10:47,405 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-10 21:10:47,405 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-07-10 21:10:47,712 INFO RPC interface 'supervisor' initialized
+2024-07-10 21:10:47,712 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-07-10 21:10:47,713 INFO daemonizing the supervisord process
+2024-07-10 21:10:47,714 INFO supervisord started with pid 15
+2024-07-11 08:13:07,279 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-11 08:13:07,280 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-07-11 08:13:07,586 INFO RPC interface 'supervisor' initialized
+2024-07-11 08:13:07,586 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-07-11 08:13:07,587 INFO daemonizing the supervisord process
+2024-07-11 08:13:07,588 INFO supervisord started with pid 15
+2024-07-29 16:34:17,296 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-29 16:34:17,297 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-07-29 16:34:17,300 INFO RPC interface 'supervisor' initialized
+2024-07-29 16:34:17,300 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-07-29 16:34:17,301 INFO daemonizing the supervisord process
+2024-07-29 16:34:17,301 INFO supervisord started with pid 15
+2024-07-29 16:48:49,549 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-29 16:48:49,549 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-07-29 16:48:49,852 INFO RPC interface 'supervisor' initialized
+2024-07-29 16:48:49,852 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-07-29 16:48:49,853 INFO daemonizing the supervisord process
+2024-07-29 16:48:49,853 INFO supervisord started with pid 15
+2024-07-30 14:58:26,555 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-30 14:58:26,555 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-07-30 14:58:26,859 INFO RPC interface 'supervisor' initialized
+2024-07-30 14:58:26,859 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-07-30 14:58:26,860 INFO daemonizing the supervisord process
+2024-07-30 14:58:26,860 INFO supervisord started with pid 15
+2024-07-30 21:08:58,911 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-30 21:08:58,911 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-07-30 21:08:59,215 INFO RPC interface 'supervisor' initialized
+2024-07-30 21:08:59,215 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-07-30 21:08:59,216 INFO daemonizing the supervisord process
+2024-07-30 21:08:59,216 INFO supervisord started with pid 15
+2024-07-30 22:13:26,109 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-30 22:13:26,109 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-07-30 22:13:26,416 INFO RPC interface 'supervisor' initialized
+2024-07-30 22:13:26,416 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-07-30 22:13:26,419 INFO daemonizing the supervisord process
+2024-07-30 22:13:26,420 INFO supervisord started with pid 15
+2024-07-31 14:29:12,936 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-31 14:29:12,936 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-07-31 14:29:13,240 INFO RPC interface 'supervisor' initialized
+2024-07-31 14:29:13,240 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-07-31 14:29:13,241 INFO daemonizing the supervisord process
+2024-07-31 14:29:13,241 INFO supervisord started with pid 15
+2024-08-01 14:11:10,463 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-08-01 14:11:10,464 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-08-01 14:11:10,767 INFO RPC interface 'supervisor' initialized
+2024-08-01 14:11:10,767 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-08-01 14:11:10,768 INFO daemonizing the supervisord process
+2024-08-01 14:11:10,768 INFO supervisord started with pid 15
+2024-08-02 14:05:06,846 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-08-02 14:05:06,847 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-08-02 14:05:07,151 INFO RPC interface 'supervisor' initialized
+2024-08-02 14:05:07,151 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-08-02 14:05:07,152 INFO daemonizing the supervisord process
+2024-08-02 14:05:07,152 INFO supervisord started with pid 14
+2024-08-05 14:58:05,706 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-08-05 14:58:05,707 WARN No file matches via include "/etc/supervisor/conf.d/*.conf"
+2024-08-05 14:58:06,011 INFO RPC interface 'supervisor' initialized
+2024-08-05 14:58:06,011 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-08-05 14:58:06,011 INFO daemonizing the supervisord process
+2024-08-05 14:58:06,012 INFO supervisord started with pid 14

@@ -1,0 +1,14 @@
+Antes de Correr el instalador de Magento, necesitamos correr el siguiente script en el contenedor de mysql.
+
+Error en BD:
+Database user does not have enough privileges. Please make sure SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, INDEX, ALTER, CREATE TEMPORARY TABLES, LOCK TABLES, EXECUTE, CREATE VIEW, SHOW VIEW, CREATE ROUTINE, ALTER ROUTINE, TRIGGER privileges are granted to database 'geekcollector'.                                 
+
+Solucion:
+Entrar al contenedor de Mysql y ejecutar el comando:
+ - FLUSH PRIVILEGES
+ - GRANT CREATE, CREATE USER, SELECT, RELOAD  ON *.* TO 'dangrimaldo'@'%';
+ - FLUSH PRIVILEGES
+
+
+
+ php -dmemory_limit=8G bin/magento setup:install --base-url="http://geekcollector.localhost/" --db-host="mysql" --db-name="geekcollector" --db-user="dangrimaldo" --db-password='Magento2024'  --admin-firstname="Dan" --admin-lastname="Grimaldo" --admin-email="dangrimaldo@gmail.com" --admin-user="admin" --admin-password="Magento2024" --language="en_US" --currency="USD" --timezone="America/Monterrey" --use-rewrites="1" --backend-frontname="admin" --search-engine=elasticsearch7 --elasticsearch-host="elasticsearch" --elasticsearch-port=9200

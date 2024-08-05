@@ -1,0 +1,838 @@
+"Privacy and Cookie Policy","Política de privacidad y cookies"
+"Search Term","Teminos de busqueda"
+"Advanced Search", "Terminos de busqueda avanzada"
+"Orders and Returns,"Ordenes y Devoluciones"
+"Contact Us","Contactanos"
+"Sign Up for Our Newsletter:","Inicia sesión para nuestro boletín:"
+"Enter your email address","Agrega tu correo electrónico"
+Subscribe,Suscribete
+Results,Resultados
+Uses,Usos
+"Search Terms","Terminos de busqueda"
+"Search Synonyms","Busqueda Sincrona"
+"New Synonym Group","Nuevo grupo de sinonimo"
+Back,Regresar
+"Delete Synonym Group","Eliminar el sinonimo de grupo"
+"Are you sure you want to delete this synonym group?","¿Estas seguro en eliminar este grupo de sinonimos?"
+Reset,Reiniciar
+"Save and Continue Edit","Guardar y continuar editando"
+"Save Synonym Group","Guardar sinonimo de grupo"
+Search,Busqueda
+"Add New Search Term","Agregar nuevo termino de grupo"
+"Save Search","Guardar busqueda"
+"Delete Search","Eliminar busqueda"
+"Edit Search '%1'","Editar busqueda '%1'"
+"New Search","Nueva busqueda"
+"Search Information","Buscar información"
+"General Information","Información General"
+No,No
+Yes,Si
+"Search Query","Consulta de busqueda"
+Store,Tienda
+"Number of results","Número de resultados"
+"Number of results (For the last time placed)","Número de resultados (Última vez colocado)"
+"For the last time placed.","Por ultima vez colocados"
+"Number of Uses","Número de usos"
+"Redirect URL","Redireccionar URL"
+"ex. http://domain.com","ex. http://domain.com"
+"Display in Suggested Terms","Mostrar sugerencia en terminos"
+"The synonym group has been deleted.","El grupo de sinonimos ha sido eliminado"
+"An error was encountered while performing delete operation.","Se encontró un error al realizar la operación de eliminación."
+"We can't find a synonym group to delete.","No podemos encontrar un grupo de sinónimos para eliminar."
+"This synonyms group no longer exists.","Este grupo de sinónimos ya no existe."
+"Edit Synonym Group","Editar grupo de sinónimos"
+"Synonym Group","Groupo de sinonimos"
+"Failed to delete %1 synonym group(s).","No se pudo eliminar %1 grupo(s) de sinónimos."
+"A total of %1 synonym group(s) have been deleted.","A total of %1 synonym group(s) have been deleted."
+Marketing,Marketing
+"Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.","El motor de búsqueda %1 no admite sinónimos de búsqueda. No se utilizarán los sinónimos que introduzca."
+"This synonym group no longer exists.","Este grupo de sinónimos ya no existe."
+"You saved the synonym group.","Has guardado el grupo de sinonimos."
+"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Los términos que ingresó (%1) pertenecen a un grupo de sinónimos existente, %2. Seleccione la casilla de verificación "Fusionar sinónimos existentes" para que se puedan fusionar los términos."
+"The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Los términos que ingresó (%1) pertenecen a %2 grupos de sinónimos existentes, %3 y %4. Seleccione la casilla de verificación "Fusionar sinónimos existentes" para que se puedan fusionar los términos."
+"You deleted the search.","Has eliminado la busqueda."
+"We can't find a search term to delete.","No podemos encontrar un término de búsqueda para eliminar."
+"This search no longer exists.","Esta búsqueda ya no existe."
+"Edit Search","Editar la busqueda"
+"Please select searches.","Porfavor seleccione busquedas."
+"Total of %1 record(s) were deleted.","Se eliminaron un total de %1 registros."
+Reports,Reportes
+"Search Terms Report","Informe de términos de búsqueda"
+"You saved the search term.","Has guardado los terminos de busqueda."
+"Something went wrong while saving the search query.","Algo salió mal al guardar la consulta de búsqueda."
+"You already have an identical search term query.","Ya tienes una consulta de término de búsqueda idéntica."
+"Your search query can't be longer than %1, so we shortened your query.","Su consulta de búsqueda no puede ser más larga que %1, por lo que acortamos su consulta."
+"Synonym group with id %1 cannot be deleted. %2","No se puede eliminar el grupo de sinónimos con id %1. %2"
+"Merge conflict with existing synonym group(s): %1","Fusionar conflicto con grupo(s) de sinónimos existentes: %1"
+"All Websites","Todos los Websites"
+"    All Store Views","    Todas las vistas de tienda"
+"All Store Views","Todas las vistas de tienda"
+Delete,Eliminar
+"Are you sure you want to delete synonym group with id: %1?","¿Está seguro de que desea eliminar el grupo de sinónimos con id: %1?"
+View/Edit,Ver/Editar
+"Search entire store here...","Busca la tienda entera aquí..."
+"There are no search terms available.","No hay términos de búsqueda disponibles."
+"Search Engine","Motor de busqueda"
+CSV,CSV
+"Excel XML","Excel XML"
+ID,ID
+Hits,Hits
+"Are you sure?","Estas seguro?"
+"Suggested Terms","Términos sugeridos"
+yes,si
+no,no
+Action,Acción
+Edit,Editar
+"You can adjust the scope of this synonym group by selecting an option from the list.","Puede ajustar el alcance de este grupo de sinónimos seleccionando una opción de la lista."
+Scope,Alcance
+"Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”","Lista de sinónimos separados por comas. Los términos ingresados ​​(separados por comas) se utilizarán como una consulta de búsqueda "OR" para buscar en toda la tienda. Por ejemplo, si ingresa "zapatos,calzado" y el usuario busca "zapatos", los resultados de la búsqueda incluirán cualquier producto o contenido con el término "zapatos" o "calzado"."
+Synonyms,Sinonimos
+"Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Combina automáticamente sinónimos en grupos que comparten el mismo ámbito. Si marca esta casilla y agrega uno o más términos iguales a diferentes grupos de sinónimos en el mismo ámbito, se combinarán automáticamente todos los términos en un solo grupo. Si esto no es lo que desea, desmarque la casilla y aparecerá un error si intenta agregar los mismos términos."
+"Store View","Vista de tienda"
+Website,Website
+"Are you sure you want to delete the selected synonym groups?","¿Está seguro de que desea eliminar los grupos de sinónimos seleccionados?"
+"Delete items","Eliminar elementos"
+"Newsletter","Newsletter",module,Magento_Newsletter
+"Search entire store here...","¿Qué estás buscando?",module,Magento_Search
+"My Account","Mi cuenta",module,SummaTheme_Checkout
+"Hello, %1!","¡Hola, %1!"
+"Welcome, %1!","¡Hola, %1!"
+"Discounts will be applied on cart page.","Los descuentos se aplicarán en el carrito"
+"View and Edit Cart","Ir al carrito"
+"Proceed to Checkout","Comprar"
+"Remove All Items","Borrar todos"
+"Are you sure you would like to remove all items from the shopping cart?","¿Estás seguro que querés quitar todos los artículos del carrito de compras?",module,Magento_Checkout
+"Add to Compare","Comparar",module,Magento_Catalog
+"Add To Compare","Comparar",module,Magento_Catalog
+"Add to Compare","Comparar",module,Magento_CatalogWidget
+"Add to Compare","Comparar",module,Magento_Reports
+"Add to Cart","Comprar",module,Magento_Catalog
+"As Low as","Desde",module,Magento_Bundle
+"As low as","Desde",module,Magento_Bundle
+"As low as","Desde",module,Magento_Catalog
+"As low as","Desde",module,Magento_ConfigurableProduct
+"As low as: ","Desde: ",module,Magento_ConfigurableProduct
+"How do we deliver your order?","¿Cómo entregamos tu compra?"
+"Home delivery","Envío a domicilio"
+"Pick in Store","Retiro en tienda"
+"Enter your email","Ingresá tu correo"
+"We'll send your order confirmation here.","Para continuar con tu compra y recibir el resumen de compra.",module,Magento_Checkout
+"You can create an account after checkout.","Podés crear una cuenta una vez finalizada la compra.",module,Magento_Checkout
+"Please, confirm your email. You can create an account after checkout.","Por favor, confirma tu email. Podés crear una cuenta una vez finalizada la compra.",module,Magento_Checkout
+"Street","Calle",module,Magento_Checkout
+"Street number","Número",module,Magento_Checkout
+"Floor / Apartment","Piso/Depto.",module,Magento_Checkout
+"Observations","Entre Calles (Opcional)",module,Magento_Checkout
+"Optional","Opcional"
+"name@email.com","Ej. nombre@mail.com"
+"Personal Information","Información personal"
+"Cant.","Cantidad"
+"Order Summary","Resumen de compra",module,Magento_Checkout
+"Shipping Methods","Seleccioná el tipo de envío",module,Magento_Checkout
+"View all level 0","Ver todo"
+"View all level 1","Ver todo"
+"View all level 2","Ver todo"
+"View all level 3","Ver todo"
+"Free!","¡Gratis!"
+"Vat Id:","Documento:"
+"Phone:","Tel:"
+"New Address","Agregar una nueva dirección",module,Magento_Checkout
+"What address do we send?","¿A qué dirección la enviamos?"
+"Select Your Store","Elegí un punto de retiro"
+"We could not preselect pickup location based on available information, please select it manually.","No pudimos preseleccionar un punto de retiro basado en la información disponible, por favor seleccioná uno."
+"Search with postcode or city name...","Buscá por tu código postal o ciudad..."
+"Please provide postcode or city name to find nearest pickup locations.","Cargá tu ciudad o código postal para encontrar el punto de retiro más cercano."
+"Ship Here","Continuar",module,Magento_InventoryInStorePickupFrontend
+"We were unable to find nearby locations for provided search query.","No pudimos encontrar un punto de retiro cercano a los datos ingresados.",module,Magento_InventoryInStorePickupFrontend
+"Select Other","Elegir otro",module,Magento_InventoryInStorePickupFrontend
+"Your Select Store Is","Tu punto de retiro es",module,Magento_InventoryInStorePickupFrontend
+"Edit Address","Editar"
+"Edit","Editar"
+"Back to cart","Volver al carrito"
+"per page","Productos por página",module,Magento_Catalog
+"per page","Pedidos por página",module,Magento_Sales
+"per page","Por página",module,Magento_Customer
+"per page","Por página"
+"Items %1-%2 of %3","%1-%2 de %3 Productos",module,Magento_Catalog
+"Items %1-%2 of %3","%1-%2 de %3 Pedidos",module,Magento_Sales
+"Items %1-%2 of %3","%1-%2 de %3 Direcciones",module,Magento_Customer
+"Items %1-%2 of %3","%1-%2 de %3 Items",module,Magento_Customer
+"%1 Item","%1 producto encontrados",module,Magento_Catalog
+"%1 Items","%1 productos encontrados",module,Magento_Catalog
+"%1 Item","%1 pedido",module,Magento_Sales
+"%1 Items","%1 pedidos",module,Magento_Sales
+"%1 Item","%1 dirección",module,Magento_Customer
+"%1 Items","%1 direcciones",module,Magento_Customer
+"%1 Item","%1 item"
+"%1 Items","%1 items"
+"Search (%s)","Buscar (%s)"
+"No value matching the search <b>%s</b>.","No se encontraron resultados para <b>%s</b>."
+"Compare Products","Comparador",module,Magento_Catalog
+"My Wish List","Favoritos",module,Magento_Wishlist
+"Clear All","Borrar todo",module,Magento_LayeredNavigation
+"Recently Ordered","Comprar nuevamente",module,Magento_Sales
+"Related Products","Productos similares",module,Magento_Catalog
+"We found other products you might like!","No olvides llevar",module,Magento_Catalog
+"Check items to add to the cart or","Selecciona otros productos a agregar o",module,Magento_Catalog
+"select all","Seleccionar todos",module,Magento_Catalog
+"Add with this product","Agregar con el producto",module,Magento_Catalog
+"Login","Iniciar sesión",module,Magento_Checkout
+"Login","Iniciar sesión",module,Magento_Customer
+"Login","Iniciar sesión",module,Magento_Login
+"Login","Iniciar sesión",module,Magento_Paypal
+"Continue as guest","Continuar",module,Magento_Checkout
+"Continue as guest anyway","Continuar como invitado",module,Magento_Checkout
+"Confirm address","Continuar",module,Magento_Checkout
+"Place Order","Pagar",module,Magento_Checkout
+"Require Invoice","Requiero factura A"
+"Invoice Required","Factura A Requerida"
+"Invoice Business Name","Razón social"
+"Invoice Vat Id","CUIL"
+"Invoice Business Name: %1","Razón social: %1"
+"Invoice Vat Id: %1","CUIL: %1"
+"An error was generated saving the invoice information. Plese check the information or contact us.","Se ha generado un error guardando la información de su factura A. Por favor verificá tu información o contactate con nosotros."
+"Shopping Cart","Mi carrito",module,Magento_Checkout
+"Estimate Shipping and Tax","Estimación de envío",module,Magento_Checkout
+"Gift Cards","¿Tienes una tarjeta de regalo?",module,Magento_GiftCardAccount
+"Apply Discount Code","¿Tienes un cupón de descuento?",module,Magento_Checkout
+"Enter discount code","Código"
+"Add Gift Card","Aplicar",module,Magento_GiftCardAccount
+"Enter your destination to get a shipping estimate.","Ingresá tus datos para estimar."
+"Enter your billing address to get a tax estimate.","Ingresá tus datos para estimar."
+"Enter gift card code","Código",module,Magento_GiftCardAccount
+"Enter the gift card code","Código",module,Magento_GiftCardAccount
+"Check Gift Card status and balance","Ver Saldo",module,Magento_GiftCardAccount
+"Update Shopping Cart","Actualizar mi carrito",module,Magento_Checkout
+"Your order # is: <span>%1</span>.","Nº de pedido: <span>%1</span>.",module,Magento_Checkout
+"Your order number is: %1.","Nº de pedido: %1.",module,Magento_Checkout
+"We'll email you an order and pick-up confirmation with details.","En los próximos minutos recibirás un mensaje email con los detalles de tu pedido y la información para retirarlo.",module,Magento_Checkout
+"We'll email you an order confirmation with details and tracking info.","En los próximos minutos recibirás un mensaje email con los detalles de tu pedido y un enlace para hacer el seguimiento de su progreso.",module,Magento_Checkout
+"Create an account","Crear una cuenta",module,Magento_Checkout
+"Create an account with your email address:","Generá una cuenta con tu dirección de mail:",module,Magento_Checkout
+"Make your purchases more easy.","Realiza tus compras de manera más ágil.",module,Magento_Checkout
+"Save multiple shipping and billing addresses.","Guarda múltiples direcciones de envío y facturación.",module,Magento_Checkout
+"You can track your order status by creating an account.","Realiza el seguimiento a tus compras y revisa tus pedidos realizados.",module,Magento_Checkout
+"Make a wishlist of favorite products.","Haz una lista de productos favoritos.",module,Magento_Checkout
+"Success Page","¡Gracias por su compra!",module,Magento_Checkout
+"Order #: %1","Nº de pedido: %1",module,Magento_Checkout
+"Go to homepage","Ir a la home",module,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","Continua comprando <a href=""%1"">ingresando aquí</a>.",module,Magento_Checkout
+"VAT Number","Documento",module,Magento_Backend
+"Validate VAT Number","Validar Documento",module,Magento_Customer
+"Error during VAT Number verification.","Error durante la verificación del Documento.",module,Magento_Customer
+"VAT Number is valid.","Documento válido.",module,Magento_Customer
+"VAT Number","Documento",module,Magento_Customer
+"Tax VAT Number","Documento",module,Magento_Customer
+"VAT Number","Documento",module,Magento_Email
+"VAT Number","Documento",module,Magento_CustomerCustomAttributes
+"MercadoPago Payment Information","Información del pago"
+"Your order cannot be completed","Tu compra no se pudo realizar"
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Crea una y aprovecha los beneficios:",module,Magento_Customer
+"Insert your password","Ingrese su contraseña",module,Magento_Customer
+"New Customers","Crear cuenta",module,Magento_Customer
+"Registered Customers","Ya tengo una cuenta",module,Magento_Customer
+"If you have an account, sign in with your email address.","Para iniciar sesión ingrese su email y contraseña.",module,Magento_Customer
+"Forgot Your Password?","Olvidé mi contraseña",module,Magento_Customer
+"Sign In","Iniciar Sesión",module,Magento_Customer
+"Create an Account","Crear cuenta",module,Magento_Customer
+"Allow remote shopping assistance","Permitir compra con asistencia remota"
+"This allows merchants to ""see what you see" and take actions on your behalf in order to provide better assistance.","Esta opción permite que los asesores puedan asistirlo en sus compras."
+"Create New Customer Account","¿Aún no tenés cuenta? Registrate",module,Magento_Customer
+"Back to login","Ya tengo cuenta",module,Magento_Customer
+"Firstname example","Ej. Camila"
+"Middlename example","Ej. Soledad"
+"Lastname example","Ej. Torres"
+"Tax/VAT Number","Documento"
+"Please type the letters and numbers below","Por favor, escriba los siguientes números y letras",module,Magento_Captcha
+"Sorry, there is no delivery methods available for your address. Please check your address or continue using pickup in store.","No pudimos encontrar formas de envío para su dirección. Por favor modificá la misma o continuá tu compra utilizando retiro en tienda."
+"Save %1","Ahorrá %1"
+"My Account dashboard","Resumen"
+"Account Dashboard","Resumen"
+"View Order","Ver pedido",module,Magento_Sales
+"Order #","Nº de pedido",module,Magento_Sales
+"Zip/Postal Code","Código Postal",module,Magento_Customer
+"State","Provincia",module,Magento_Customer
+"State","Provincia",module,Magento_Tax
+"State","Provincia",module,Magento_TaxImportExport
+"Street Address","Calle",module,Magento_Customer
+"Street Address: Line 1","Calle"
+"Street Address: Line 2","Número"
+"Street Address: Line 3","Piso/Dpto."
+"Street Address: Line 4","Entre Calles (Opcional)"
+"Gift Card","Giftcard",module,Magento_CustomerSegment
+"Gift Card","Giftcard",module,Magento_GiftCardAccount
+"Gift Card (%1)","Giftcard (%1)",module,Magento_GiftCardAccount
+"Gift Card: ","Giftcard: ",module,Magento_GiftCardAccount
+"Gift Card:","Giftcard:",module,Magento_GiftCardAccount
+"Gift Card:","Giftcard:",module,Magento_NegotiableQuote
+"Ordered","Comprado",module,Magento_Sales
+"Ordered","Comprado",module,Magento_Bundle
+"Ordered","Comprado",module,Magento_Downloadable
+"Ordered","Comprado",module,Magento_GiftCard
+"Ordered","Comprado",module,Magento_NegotiableQuote
+"Ordered","Comprado",module,Magento_Reports
+"Ordered","Comprado",module,Magento_Rma
+"Ordered","Comprado",module,Magento_Sales
+"Ordered","Comprado",module,Magento_VersionsCms
+"Order status:","Estado:"
+"About Your Order","Novedades del pedido",module,Magento_Sales
+"SKU","SKU",module,Magento_Sales
+"Qty Invoiced","Facturados",module,Magento_Sales
+"Qty Shipped","Enviados",module,Magento_Shipping
+"Qty Shipped","Enviados",module,Magento_Sales
+"Remove item","Eliminar",module,Magento_Wishlist
+"Remove item","Eliminar",module,Magento_RequisitionList
+"Remove Product","Eliminar",module,Magento_Multishipping
+"Remove Product","Eliminar",module,Magento_Catalog
+"Remove Product","Eliminar",module,Magento_ConfigurableProduct
+"Remove item","Eliminar",module,Magento_Checkout
+"Remove item","Eliminar",module,Magento_NegotiableQuote
+"Redeem Gift Card","Canjear Giftcard",module,Magento_GiftCardAccount
+"Check status and balance","Checkear mi Giftcard",module,Magento_GiftCardAccount
+"Have a gift card? ","¿Tenés una Giftcard? ",module,Magento_GiftCardAccount
+"Please enter a valid gift card code.","Ingresá de Giftcard válido.",module,Magento_GiftCardAccount
+"Expires: ","Vence: ",module,Magento_GiftCardAccount
+"%name,","%name,",module,Magento_GiftCardAccount
+"%name,","%name,",module,Magento_GiftRegistry
+"%name,","%name,",module,Magento_GiftCard
+"%name,","%name,",module,Magento_Company
+"%name,","%name,",module,Magento_Customer
+"%name,","%name,",module,Magento_CustomerBalance
+"%name,","%name,",module,Magento_ProductAlert
+"%name,","%name,",module,Magento_Reminder
+"%name,","%name,",module,Magento_Reward
+"%name,","%name,",module,Magento_Rma
+"%name,","%name,",module,Magento_Sales
+"%name,","%name,",module,Magento_SendFriend
+"%name,","%name,",module,Magento_Theme
+"%name,","%name,",module,Magento_User
+"Items","Producto",module,Magento_Sales
+"Items","Producto",module,Magento_Checkout
+"items","producto",module,Magento_Checkout
+"items","productos",module,Magento_LayeredNavigation
+"Items","Producto",module,Magento_Multishipping
+"Items","Producto",module,Magento_Reports
+"items","productos",module,Magento_RequisitionList
+"Items","Producto",module,Magento_RequisitionList
+"Items","Producto",module,Magento_Rma
+"Invoice for your %store_name order","Factura para tu pedido en %store_name",module,Magento_Sales
+"Your %store_name order is ready for pickup","Tu pedido en %store_name esta listo para ser retirado"
+"Your order placed from %store_name is ready for pickup.","Tu pedido realizado en %store_name está listo para ser retirado."
+"Please feel free to pickup your order now.","A partir de ahora podes pasar a retirar tu pedido."
+"Your Order <span class=""no-link"">#%increment_id</span> is complete","Tu pedido <span class=""no-link"">#%increment_id</span> está listo"
+"Order confirmed","Pedido ingresado"
+"Payment accepted","Pago aceptado"
+"Order invoiced","Pedido facturado"
+"Order shipped","Pedido enviado"
+"Order ready for Pickup","Pedido listo para retiro"
+"Write Us","Completá todos los datos y nos podremos en contacto con vos.",module,Magento_Contact
+"VAT/TAX ID","CUIT"
+"Street Address example","Ej. Costa Rica"
+"Street Address example 2","Ej. 999"
+"Street Address example 3","Ej. 7G"
+"Street Address example 4","Ej. Lavander y Gurion"
+"Nombre example","Ej. Juan"
+"Apellidos example","Ej. Perez"
+"Documento example","Ej. 13988399"
+"Número de teléfono example","Ej. 113829928"
+"Region example","Ej. Capital Federal"
+"City example","Ej. Capital Federal"
+"District example","Ej. Palermo"
+"Ciudad example","Ej. Capital Federal"
+"Postcode example","Ej. 1425"
+"Código Postal example","Ej. 1425"
+"A to Z","A a Z"
+"Z a A","Z a A"
+"Who will pickup the order?","¿Quién retirará la orden?"
+"Some else will pickup the order?","Alguien más retira mi orden"
+"Store %1","Sucursal %1"
+"Closest store","Más cercana"
+"Select a city","Seleccioná una ciudad"
+"Select a district","Seleccioná un distrito"
+"Please, provide your location to find your closest store.","Por favor, brindanos tu ubicación para poder encontrar tu sucursal más cercana."
+"You had denied your location, provide your location to find your closest store.","No pudimos acceder a tu ubicación, brindanos tu ubicación para poder encontrar tu sucursal más cercana."
+"District","Distrito"
+"Please select a City.","Por favor elija una ciudad."
+"Please select a District.","Por favor elija un districto."
+"You already have an account with us, please sign in to continue.","Ya tienes una cuenta, iniciá sesión para continuar.",module,Magento_Checkout
+"Newsletter Subscriptions","Mi Newsletter",module,Magento_Newsletter
+"My Product Reviews","Mis Reseñas",module,Magento_Review
+"My Wish List","Mis favoritos",module,Magento_Wishlist
+"Search by SKU or Product Name","Buscar por SKU o Nombre"
+"Order Number","Orden #"
+"Enter full or partial number...","Número completo o parcial..."
+"Invoice Number","Número de factura"
+"DD/MM/YYYY","DD/MM/AAAA"
+"Company Credit","Crédito",module,Magento_CompanyCredit
+"Show Inactive Users","Ver Inactivos"
+"Show Active Users","Ver Activos"
+"Show All Users","Ver Todos"
+"ID","ID",module,Magento_Company
+"All","Todos",module,Magento_Company
+"Sales","Ventas",module,Magento_Company
+"Allow Checkout","Permitir Comprar",module,Magento_Company
+"Use Pay On Account method","Usar pago con crédito",module,Magento_Company
+"View orders","Ver órdenes",module,Magento_Company
+"View orders of subordinate users","Ver órdenes de usuarios asignados",module,Magento_Company
+"Quotes","Presupuestos",module,Magento_Company
+"Show My Quotes","Ver Mis Presupuestos"
+"View","Ver",module,Magento_Company
+"Request, Edit, Delete","Hacer, Editar, Borrar",module,Magento_Company
+"Checkout with quote","Comprar con presupuesto",module,Magento_Company
+"View quotes of subordinate users","Ver presupuestos de usuarios asignados",module,Magento_Company
+"Order Approvals","Aprobar órdenes",module,Magento_Company
+"View my Purchase Orders","Ver mis órdenes de compra",module,Magento_Company
+"View for subordinates","Ver de usuarios asignados",module,Magento_Company
+"View for all company","Ver de la empresa",module,Magento_Company
+"Auto-approve POs created within this role","Autoaprobar OC creadas dentro de este Rol",module,Magento_Company
+"Approve Purchase Orders without other approvals","Autoaprobar OC sin otras aprovaciones",module,Magento_Company
+"View Approval Rules","Ver reglas de aprovación",module,Magento_Company
+"Create, Edit and Delete","Crear, Editar y Borrar",module,Magento_Company
+"Company Profile","Perfil de la empresa",module,Magento_Company
+"Account Information (View)","Ver información de la cuenta",module,Magento_Company
+"Edit","Editar",module,Magento_Company
+"Legal Address (View)","Ver Dirección",module,Magento_Company
+"Contacts (View)","Ver contacto",module,Magento_Company
+"Payment Information (View)","Ver información de pago",module,Magento_Company
+"Shipping Information (View)","Ver información de envío",module,Magento_Company
+"Company User Management","Control de usuarios",module,Magento_Company
+"View roles and permissions","Ver roles y permisos",module,Magento_Company
+"Manage roles and permissions","Manejar roles y permisos",module,Magento_Company
+"View users and teams","Ver usuarios y equipos",module,Magento_Company
+"Manage users and teams","Manejar usuarios y equipos",module,Magento_Company
+"Company Credit","Crédito de la empresa",module,Magento_CompanyCredit
+"Show All Quotes","Ver todos"
+"Quote Totals","Total",module,Magento_NegotiableQuote
+"Quote Total (Base)","Total (Base)",module,Magento_NegotiableQuote
+"Quote Total (Negotiated)","Total (negociado)",module,Magento_NegotiableQuote
+"Quote name","Nombre",module,Magento_NegotiableQuote
+"Quote Name","Nombre",module,Magento_NegotiableQuote
+"Your search did not return any results.","No se encontraron resultados."
+"Quote:","Presupuesto:"
+"Quote %1","Presupuesto %1"
+"Quote status:","Estado:"
+"Items Quoted","Productos Presupuestados",module,Magento_NegotiableQuote
+"Select Existing Address","Seleccionar una Dirección",module,Magento_NegotiableQuote
+"Change Address","Cambiar Dirección",module,Magento_NegotiableQuote
+"Please select a user or team first.","Por favor, primero elija un usuario o equipo."
+"Please select user or team","Elija un usuario o equipo."
+"Available Payment Methods","Métodos de pago disponibles",module,Magento_CompanyPayment
+"Available Shipping Methods","Métodos de envío disponibles",module,Magento_CompanyShipment
+"Quick Order","Compra rápida",module,Magento_QuickOrder
+"This company has no payment methods. Please contact store administrator.","Esta empresa no tiene métodos de pago. Póngase en contactate con tu administrador.",module,Magento_CompanyPayment
+"This company has no shipping methods. Please contact store administrator.","Esta empresa no tiene métodos de envío. Por favor contactate con tu administrador.",module,Magento_CompanyShipment
+"Are you sure you would like to remove selected items from the requisition list?","¿Está seguro que quiere eliminar este producto de la lista de requisitos?",module,Magento_RequisitionList
+"Delete Requisition List?","Borrar lista de requisitos",module,Magento_RequisitionList
+"We can't update your requisition list right now.","No podemos actualizar tu lista de requisitos en este momento.",module,Magento_RequisitionList
+"Are you sure you want to delete ""%1" list? This action cannot be undone.","¿Está seguro que quiere eliminar la lista de requisitos ""%1""?",module,Magento_RequisitionList
+"Add Shopping Cart to Requisition List","Agregar carrito a lista de requisitos",module,Magento_RequisitionList
+"Your account is locked","Tu cuenta está inactiva"
+"You've been linked to a company","Has sido vinculado a una empresa"
+"You've been added to the <a href=%customer_url>%company_name</a> as the company member.
+    Once you enter your account,
+    the company's shared resources will be available for you.","Ha agregado a la <a href=%customer_url>%company_name</a> como el miembro de la empresa.
+    una vez que entres a tu cuenta
+    los recursos compartidos de la empresa estará disponibles para usted."
+"If this is a mistake,
+    please contact the company Admin at %company_admin_email.","Si esto es un error,
+    Póngase en contactate con el administrador de la empresa a %company_admin_email."
+"New quote ","Nuevo presupuesto ",module,Magento_NegotiableQuote
+"Your company account <strong>%company_name</strong> has been blocked.
+    Your company members can continue using the website,
+    but they will not be able to place orders.","Su cuenta de empresa <strong>%company_name</strong> ha sido bloqueada.
+    Los miembros de su empresa pueden seguir utilizando el sitio web
+    pero no podrá realizar pedidos."
+"Your company registration request (for the <strong>%company_name</strong>) has been rejected
+    for the following reason:","La solicitud de registro de su empresa (para  <strong>%company_name</strong>) se ha rechazado
+    por la siguiente razón:"
+"Your company registration request (for the <strong>%company_name</strong>)
+    has been approved and you have been set as the Company Admin.
+    You can now create and manage your company structure.
+    Your company members are able to request quotes, create requisition lists,
+    and use other B2B features.","Su solicitud de registro de su empresa (para <strong>%company_name</strong>)
+    ha sido aprobada y ha sido definido como Admin. de la empresa.
+    Ahora puede crear y administrar la estructura de la empresa.
+    Los miembros de su empresa son capaces de solicitar cotizaciones, crear listas de requerimiento,
+    y usar otras funciones B2B."
+"The status of your company <strong>%company_name</strong>
+    is now <strong>Active</strong>.
+    Once you login, you will be able to place orders on behalf of your company
+    and use other B2B features.","El estado de su empresa <strong>%company_name</strong>
+    es ahora <strong>Activa</strong>.
+    Una vez que inicie sesión, podrá realizar pedidos en nombre de su empresa
+    y utilizar otras características de B2B."
+"updated quote","Presupuesto actualizado"
+"New company registration request","Nuevo pedido de registro de empresas"
+"Assigned to %company_name as Sales Representative","Asignado como Representante de Ventas para %company_name"
+"Your company account is active","La cuenta de su empresa fue activada"
+"Your company account suspended","La cuenta de su empresa fue suspendida"
+"Your company account blocked","La cuenta de su empresa fue bloqueada"
+"Your company registration request rejected","La registración de su empresa fue rechazada"
+"Your credit limit has been updated and is now %available_credit.
+    Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Tu límite de crédito fue actualizado a %available_credit.
+    Su saldo pendiente asciende actualmente a %outstanding_balance. Usted está %exceed_limit de exceder el límite de crédito."
+"
+                            Limit one PO number per reimburse transaction
+                        ","
+                            Limitar un número de PO por transacción de reembolso
+                        "
+"
+                                Maximum 255 characters are allowed.
+                        ","
+                                Máximo 255 caracteres permitidos.
+                        "
+"Your company has been allocated a credit of %available_credit.
+    You can now use the Payment On Account method to place you orders.","A su empresa se le ha asignado un crédito de %available_credit.
+    Ahora puede utilizar el método de pago  A Cuenta para hacer pedidos."
+"The selected credit currency is not valid.
+                        Customers will not be able to place orders until you update the credit currency.","La moneda de crédito seleccionada no es válida.
+                        Los clientes no podrán realizar pedidos hasta que actualice la moneda de crédito."
+"This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first.","Este equipo tiene usuarios secundarios o equipos alineados a él y no se puede eliminar. Por favor, vuelva a alinear los usuarios secundarios o equipos primero.",module,Magento_Company
+"Default User","Default"
+"How to get","Como llegar"
+"The requested qty is not available","La cantidad requerida no esta disponible"
+"There are no source items with the in stock status","Este producto no está en stock en ninguno de nuestros centros."
+"Your quote number is: %1.","Su número de presupuesto es: %1.",module,Magento_NegotiableQuote
+"The quote has been sent to the merchant.","El presupuesto se ha enviado a su representante.",module,Magento_NegotiableQuote
+"VatId 123456789","123456789"
+"Show Password","Mostrar contraseña",module,Magento_Customer
+"Are you sure you want to remove all items from your shopping cart?","¿Está seguro que quiere eliminar todos los productos del carrito?"
+"Adding...","Comprando...",module,Magento_Catalog
+"Added","Comprado",module,Magento_Catalog
+"Share","Compartir",module,Magento_Catalog
+"Share:","Compartir:",module,Magento_Catalog
+"The fewest you may purchase is %1.","El mínimo de comprar es %1."
+"The maximum you may purchase is %1.","El máximo de compra es %1."
+"The requested qty exceeds the maximum qty allowed in shopping cart","La cantidad a comprar es mayor el máximo permitido."
+"Suggestions","Sugerencias",module,Magento_LiveSearchStorefrontPopover
+"View all","Ver todo",module,Magento_LiveSearchStorefrontPopover
+"Shipping Step","Envío",module,Magento_Checkout
+"Product Stores","Sucursales"
+"Available quantity:","Disponibles:"
+"Available Now","Disponible para retiro"
+"Not available now","No disponible actualmente"
+"Cannot find Pickup Locations available.","No pudimos encontrar sucursales disponibles."
+"Check product locations","Donde puedo encontrar este producto"
+"The Stores are ordered by distance.","Las sucursales están cercanía a tu ubicación"
+"Please select configurable options.","Por favor elegí tu configuracion para el producto."
+"Swatch configuration cannot be found. Please select the product options and try again.","No pudimos obtener la configuración del producto. Por favor elegí tu configuración e intentalo nuevamente."
+"Load previous items","Ver productos anteriores"
+"Load more items","Ver más productos"
+"Highest Relevance", "Más relevantes"
+"Search your address","Buscá tu dirección"
+"Search your address...","Buscá tu dirección..."
+"Contact Information","Datos personales"
+"Clean fields","Limpiar"
+"Edit fields","Editar"
+"%1 has been replaced by %2 by comparison","%1 ha sido reemplazado por %2 por comparación"
+"Cannot found an available region for %1","No se pudo encontrar una provincia disponible para %1"
+"Cannot found an available city for %1","No se pudo encontrar una ciudad disponible para %1"
+"Cannot found an available district for %1","No se pudo encontrar un distrito disponible para %1"
+"Confirm New Password","Confirmar nueva contraseña",module,Magento_Customer
+"Confirm New Password","Confirmar nueva contraseña",module,Magento_Customer
+"Confirm New Password","Confirmar nueva contraseña",module,Magento_CustomerCustomAttributes
+"overview","Detalles",module,Magento_Catalog
+"Please enter a quantity greater than 0.","Por favor ingrese una cantidad mayor a 0.",lib,web
+"Show more","Ver más",module,Magento_Ui
+"I will pickup the order","Yo retiro la orden"
+"Someone else will pick it up"," retira la orden"
+"Email example","Email"
+"Alternative Telephone example","Teléfono alternativo"
+"Address:","Dirección:"
+"Name:","Nombre:"
+"Product recently added to cart","Producto agregado al carrito"
+"Continue shopping","Seguir comprando"
+"View cart","Ir al carrito"
+"Proceed to Checkout","Comprar"
+"%1 has been removed from your Wish List.","%1 se ha eliminado de su lista de deseos.",module,Magento_Wishlist
+"Save Review","Guardar reseña",Magento_Review
+"New Review","Nueva Reseña",Magento_Review
+"Review Details","Detalles de la Reseña",Magento_Review
+Product,Producto,Magento_Review
+"Product Rating","Clasificación del producto",Magento_Review
+Status,Estatus,Magento_Review
+Visibility,Visibilidad,Magento_Review
+Nickname,Sobrenombre,Magento_Review
+"Summary of Review","Resumen de reseña",Magento_Review
+Review,Reseña,Magento_Review
+Previous,Previo,Magento_Review
+"Save and Previous","Guardar y Regresar",Magento_Review
+"Save and Next","Guardar y Seguir",Magento_Review
+Next,Siguiente,Magento_Review
+"Delete Review","Eliminar Reseña",Magento_Review
+"Are you sure you want to do this?","¿Seguro que quieres hacer esto?",Magento_Review
+"Edit Review '%1'","Editar Reseña '%1'",Magento_Review
+"<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>"
+Administrator,Administrador,Magento_Review
+Guest,Invitado,Magento_Review
+Author,Autor,Magento_Review
+"Summary Rating","Resumen de clasificación",Magento_Review
+"Detailed Rating","Eliminar clasificación",Magento_Review
+Created,Creado,Magento_Review
+Title,Titulo,Magento_Review
+Type,Tipo,Magento_Review
+Action,Acción,Magento_Review
+Edit,Editar,Magento_Review
+Delete,Eliminar,Magento_Review
+"Are you sure?","Estas seguro?",Magento_Review
+"Update Status","Actualizar estatus",Magento_Review
+Customer,Cliente,Magento_Review
+"Pending Reviews of Customer `%1`","Comentarios pendientes del cliente `%1`",Magento_Review
+"Pending Reviews","Reseñas Pendientes",Magento_Review
+"All Reviews of Customer `%1`","Todas las opiniones de clientes `%1`",Magento_Review
+"All Reviews of Product `%1`","Todas las opiniones del producto `%1`",Magento_Review
+"All Reviews","Todas las reseñas",Magento_Review
+Name,Nombre,Magento_Review
+"Product Store Name","Nombre de la tienda de productos",Magento_Review
+Price,Precio,Magento_Review
+Quantity,Cantidad,Magento_Review
+Websites,Websites,Magento_Review
+"Manage Ratings","Administrar calificaciones",Magento_Review
+"Add New Rating","Agregar nueva calificacion",Magento_Review
+"Save Rating","Guardar calificación",Magento_Review
+"Delete Rating","Eliminar calificación",Magento_Review
+"Edit Rating #%1","Editar califición #%1",Magento_Review
+"New Rating","Nueva calificación",Magento_Review
+"Rating Title","Titulo de la calificación",Magento_Review
+"Default Value","Valor por default",Magento_Review
+"Rating Visibility","Visibilidad de la calificación",Magento_Review
+"Is Active","Esta activo",Magento_Review
+"Sort Order","Orden de clasificación",Magento_Review
+"Rating Information","Información de la clasificación",Magento_Review
+"Product Reviews","Producto reseña",Magento_Review
+"Pending product review(s)","Reseña de productos pendientes",Magento_Review
+"Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Producto: <a href=""%1"" target=""_blank"">%2</a> <br/>",Magento_Review
+"Summary of review: %1 <br/>","Resumen de reseña: %1 <br/>",Magento_Review
+"Review: %1 <br/>","Reseña: %1 <br/>",Magento_Review
+"Store: %1 <br/>","Tienda: %1 <br/>",Magento_Review
+"Click <a href=""%1"">here</a> to see the review.","Click aquí<a href=""%1"">here</a> para ver la reseña.",Magento_Review
+"Product: ""%1"" reviewed by: %2","Producto: ""%1"" revisado por: %2",Magento_Review
+"Pending Reviews RSS","Reseñas Pendientes RSS",Magento_Review
+"Reviews %1","Reseñas %1",Magento_Review
+Reviews,Reseñas,Magento_Review
+"The review has been deleted.","La reseña ha sido eliminada.",Magento_Review
+"Something went wrong  deleting this review.","Algo salió mal al eliminar esta reseña.",Magento_Review
+"Customer Reviews","Reseñas del customer",Magento_Review
+"Edit Review","Editar Reseña",Magento_Review
+"We can't retrieve the product ID.","No podemos recuperar el ID del producto.",Magento_Review
+"Please select review(s).","Porfavor selecciona una reseña(s).",Magento_Review
+"A total of %1 record(s) have been deleted.","Se han eliminado un total de %1 registros.",Magento_Review
+"Something went wrong while deleting these records.","Algo salió mal al eliminar estos registros.",Magento_Review
+"A total of %1 record(s) have been updated.","Se han actualizado un total de %1 registros.",Magento_Review
+"Something went wrong while updating these review(s).","Algo salió mal al actualizar esta reseña(s).",Magento_Review
+"You saved the review.","Se ha guardado tu reseña.",Magento_Review
+"Something went wrong while saving this review.","Algo salió mal al guardar esta reseña.",Magento_Review
+"The review was removed by another user or does not exist.","La reseña fue eliminada por otro usuario o no existe.",Magento_Review
+"You deleted the rating.","Borraste la calificación.",Magento_Review
+Ratings,Calificaciones,Magento_Review
+"You saved the rating.","Has guardado la calificación.",Magento_Review
+"My Product Reviews","Mis Opiniones del producto",Magento_Review
+"Cannot initialize product","No se puede inicializar el producto",Magento_Review
+"You submitted your review for moderation.","Enviaste tu reseña para moderación.",Magento_Review
+"We can't post your review right now.","No podemos publicar tu reseña en este momento.",Magento_Review
+"Storage key was not set","No se configuró la clave de almacenamiento",Magento_Review
+Approved,Aprovado,Magento_Review
+Pending,Pendiente,Magento_Review
+"Not Approved","No Aprobado",Magento_Review
+"Please enter a review summary.","Porfavor ingresa un resumen a tu reseña.",Magento_Review
+"Please enter a nickname.","Porfavor ingresa un sobrenombre.",Magento_Review
+"Please enter a review.","Porfavor ingresa una reseña.",Magento_Review
+"Rating isn't Available","La clasificación no esta disponible.",Magento_Review
+"Please specify a rating title for a store, or we'll just use the default value.","Especifique un título de calificación para una tienda o simplemente usaremos el valor predeterminado.",Magento_Review
+"Assigned Options","Opciones asignadas",Magento_Review
+"Option Title:","Titulo de la opción:",Magento_Review
+"Product Name","Nombre del producto",Magento_Review
+Rating,Clasificación,Magento_Review
+Actions,Acciones,Magento_Review
+"See Details","Ver detalles",Magento_Review
+"You have submitted no reviews.","No has enviado ninguna reseña.",Magento_Review
+Back,Regresar,Magento_Review
+"My Recent Reviews","Mis reseñas resientes",Magento_Review
+"View All","Ver todo",Magento_Review
+"Average Customer Rating:","Calificación promedio del cliente:",Magento_Review
+"Your Review","Tu reseña",Magento_Review
+"Submitted on %1","Enviado el %1",Magento_Review
+"Back to My Reviews","Regresar a mis reseñas",Magento_Review
+"Ratings Review Summary","Resumen de calificación de reseñas",Magento_Review
+"Be the first to review this product","Sé el primero en revisar este producto",Magento_Review
+"Write Your Own Review","Escribe tu propia reseña",Magento_Review
+"* Required Fields","* Campos requeridos",Magento_Review
+"You're reviewing:","Estas revisando:",Magento_Review
+"Your Rating","Tu calificación",Magento_Review
+"%1 %2","%1 %2",Magento_Review
+Summary,Resumen,Magento_Review
+"Submit Review","Reseña enviada",Magento_Review
+"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Sólo los usuarios registrados pueden escribir reseñas. Porfavor <a href=""%1"">Inicia sesión</a> o <a href=""%2"">crea una cuenta</a>",Magento_Review
+"Add Your Review","Agrega tu reseña",Magento_Review
+"%1 Review(s)","%1 Reseña(s)",Magento_Review
+"Review by","Revisado por",Magento_Review
+"Posted on","Posteado en",Magento_Review
+"Back to Main Product Info","Regresar a la información principal del producto",Magento_Review
+"Average Customer Rating","Clasificación promedio del cliente",Magento_Review
+"Product Rating:","Clasificación del producto:",Magento_Review
+"Product Review (submitted on %1):","Reseña del producto (enviado en %1):",Magento_Review
+"Back to Product Reviews","Regresar a la reseña del producto",Magento_Review
+"By Customers","Por Clientes",Magento_Review
+"By Products","Por Productos",Magento_Review
+"Allow Guests to Write Reviews","Permitir que los invitados escriban",Magento_Review
+Active,Activo,Magento_Review
+Inactive,Inactivo,Magento_Review
+"Please select one of each of the ratings above.","Por favor seleccione una de cada una de las calificaciones anteriores.",Magento_Review
+star,estrella,Magento_Review
+stars,estrellas,Magento_Review
+"You don’t have permission to perform this operation. Selected reviews must be in Pending Status only.","No tienes permiso para realizar esta operación. Las revisiones seleccionadas deben estar en estado pendiente únicamente.",Magento_Review
+"You don’t have permission to perform this operation. The selected review must be in Pending Status.","No tienes permiso para realizar esta operación. La revisión seleccionada debe estar en estado pendiente.",Magento_Review
+"Delete Selected Problems","Eliminar problemas seleccionados",Magento_Newsletter
+"Unsubscribe Selected","Darse de baja",Magento_Newsletter
+Back,Regresa,Magento_Newsletter
+Reset,Reiniciar,Magento_Newsletter
+"Preview Template","Vista previa de la plantilla",Magento_Newsletter
+"Save Newsletter","Guardar Boletín",Magento_Newsletter
+"Save and Resume","Guardar y reanudar",Magento_Newsletter
+"View Newsletter","Vista del boletín",Magento_Newsletter
+"Edit Newsletter","Editar Boletín",Magento_Newsletter
+"Queue Information","Información del encolado",Magento_Newsletter
+"Queue Date Start","Fecha de inicio del encolado",Magento_Newsletter
+"Subscribers From","Suscriptores de",Magento_Newsletter
+Subject,Asunto,Magento_Newsletter
+"Sender Name","Nombre del remitente",Magento_Newsletter
+"Sender Email","Email del remitente",Magento_Newsletter
+Message,Mensaje,Magento_Newsletter
+"Newsletter Styles","Estilos del boletín",Magento_Newsletter
+Start,Inicio,Magento_Newsletter
+Pause,Pausar,Magento_Newsletter
+"Do you really want to cancel the queue?","¿Realmente quieres cancelar la fila?",Magento_Newsletter
+Cancel,Cancelar,Magento_Newsletter
+Resume,Reanudar,Magento_Newsletter
+Preview,Vista previa,Magento_Newsletter
+"Add New Template","Agregar nueva plantilla",Magento_Newsletter
+"Newsletter Templates","Plantillas para boletín",Magento_Newsletter
+"Convert to Plain Text","Convertir a texto plano",Magento_Newsletter
+"Return HTML Version","Regresar a la versión HTML",Magento_Newsletter
+"Delete Template","Eliminar plantilla",Magento_Newsletter
+"Save As","Guardar como",Magento_Newsletter
+"Save Template","Guardar plantilla",Magento_Newsletter
+"Edit Newsletter Template","Editar plantilla del boletín",Magento_Newsletter
+"New Newsletter Template","Nueva plantilla para el template",Magento_Newsletter
+"Template Information","Información de la plantilla",Magento_Newsletter
+"Template Name","Nombre de la plantilla",Magento_Newsletter
+"Template Subject","Asunto de la plantilla",Magento_Newsletter
+"Template Content","Contentenido de la plantilla",Magento_Newsletter
+"Template Styles","Estilos de la plantilla",Magento_Newsletter
+"No Templates Found","No se encontró la plantilla",Magento_Newsletter
+Template,Plantilla,Magento_Newsletter
+Added,Agregado,Magento_Newsletter
+Updated,Actualizado,Magento_Newsletter
+Sender,Remitente,Magento_Newsletter
+"Template Type","Tipo de plantilla",Magento_Newsletter
+Action,"Acción",Magento_Newsletter
+"Queue Newsletter","Encolado de Boletín",Magento_Newsletter
+"We unsubscribed the people you identified.","Hemos dado de baja a las personas que usted ha identificado.",Magento_Newsletter
+"The problems you identified have been deleted.","Los problemas que identificaste han sido eliminados.",Magento_Newsletter
+"Newsletter Problems Report","Informe de problemas con el boletín informativo",Magento_Newsletter
+"Newsletter Problem Reports","Informes de problemas con el boletín informativo",Magento_Newsletter
+"Newsletter Queue","Encolado de boletín",Magento_Newsletter
+"Edit Queue","Editar encolado del boletín",Magento_Newsletter
+"Please correct the newsletter template and try again.","Corrija la plantilla del boletín informativo y vuelva a intentarlo.",Magento_Newsletter
+"You saved the newsletter queue.","Has guardado la cola del boletín.",Magento_Newsletter
+"Newsletter Subscribers","Suscriptores del boletín informativo",Magento_Newsletter
+Newsletter,"Boletín informativo",Magento_Newsletter
+Subscribers,Suscriptores,Magento_Newsletter
+"Please select one or more subscribers.","Por favor seleccione uno o más suscriptores.",Magento_Newsletter
+"Total of %1 record(s) were deleted.","Se eliminaron un total de %1 registro(s).",Magento_Newsletter
+"A total of %1 record(s) were updated.","Se actualizaron un total de %1 registro(s).",Magento_Newsletter
+"The newsletter template has been deleted.","La plantilla del boletín ha sido eliminada.",Magento_Newsletter
+"We can't delete this template right now.","No podemos eliminar esta plantilla ahora.",Magento_Newsletter
+"Edit Template","Editar plantilla",Magento_Newsletter
+"New Template","Nueva plantilla",Magento_Newsletter
+"Create Newsletter Template","Crear nueva plantilla",Magento_Newsletter
+"The newsletter template has been saved.","La nueva plantilla para el boletín ha sido guardada.",Magento_Newsletter
+"Something went wrong while saving this template.","Algo salió mal mientras se guardaba esta plantilla.",Magento_Newsletter
+"Newsletter Subscription","Suscripción al boletín informativo",Magento_Newsletter
+"Something went wrong while saving your subscription.","Algo salió mal mientras se guardaba su suscripción.",Magento_Newsletter
+"We have saved your subscription.","Hemos guardado su suscripción.",Magento_Newsletter
+"We have removed your newsletter subscription.","Hemos eliminado su suscripción al boletín informativo.",Magento_Newsletter
+"Your subscription has been confirmed.","Su suscripción ha sido confirmada.",Magento_Newsletter
+"This is an invalid subscription confirmation code.","Este es un código de confirmación de suscripción no válido.",Magento_Newsletter
+"This is an invalid subscription ID.","Este es un ID de suscripción no válido.",Magento_Newsletter
+"This email address is already assigned to another user.","Esta dirección de correo electrónico ya está asignada a otro usuario.",Magento_Newsletter
+"Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Lo siento, pero el administrador no permite la suscripción para invitados. Porfavor <a href=""%1"">Registrate</a>.",Magento_Newsletter
+"Please enter a valid email address.","Porfavor ingresa un correo electrónico válido.",Magento_Newsletter
+"This email address is already subscribed.","Este correo electrónico ya esta suscrito.",Magento_Newsletter
+"A confirmation request has been sent.","Una confirmación ha sido enviada",Magento_Newsletter
+"Thank you for your subscription.","Gracias por tu suscripción.",Magento_Newsletter
+"There was a problem with the subscription: %1","Hubo un problema con la suscripción: %1",Magento_Newsletter
+"Something went wrong with the subscription.","Algo salió mal con la suscripción.",Magento_Newsletter
+"You unsubscribed.","Te has dado de baja.",Magento_Newsletter
+"Something went wrong while unsubscribing you.","Algo salió mal mientras te dabas de baja.",Magento_Newsletter
+Sent,Enviado,Magento_Newsletter
+Cancelled,Cancelado,Magento_Newsletter
+"Not Sent","No enviado",Magento_Newsletter
+Sending,Enviando,Magento_Newsletter
+Paused,Pausado,Magento_Newsletter
+"There are no subscribers selected.","No hay suscriptores seleccionados.",Magento_Newsletter
+"You selected an invalid queue.","Seleccionaste un encolado de boletines invalido.",Magento_Newsletter
+"We cannot mark as received subscriber.","No podemos marcar como suscriptor recibido",Magento_Newsletter
+"Duplicate template code","Código de plantilla duplicado",Magento_Newsletter
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber_data.unsubscription_link}}"">{{var subscriber_data.unsubscription_link}}</a>","Siga este enlace para darse de baja <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber_data.unsubscription_link}}"">{{var subscriber_data.unsubscription_link}}</a>",Magento_Newsletter
+"No such entity with %fieldName = %fieldValue","No existe tal entidad con %fieldName = %fieldValue",Magento_Newsletter
+"Choose Store View:","Elegir la vista de la tienda:",Magento_Newsletter
+"Newsletter Message Preview","Vista previa del mensaje del boletín informativo",Magento_Newsletter
+"Add to Queue","Agregar encolado de boletín",Magento_Newsletter
+"Are you sure that you want to strip all tags?","¿Estás seguro de que quieres eliminar todas las etiquetas?",Magento_Newsletter
+"Please enter a new template name.","Porfavor ingresa un nombre para la platilla nueva.",Magento_Newsletter
+" Copy"," Copiar",Magento_Newsletter
+"Are you sure you want to delete this template?","¿Estas seguro que quieres eliminar esta plantilla?",Magento_Newsletter
+"Sign Up for Our Newsletter:","Iniciar sesión para nuestro boletín informativo:",Magento_Newsletter
+"Enter your email address","Agrega tu dirección de correo electrónico",Magento_Newsletter
+Subscribe,"Suscripción",Magento_Newsletter
+"Newsletter subscription confirmation","Confirmación al boletín informativo",Magento_Newsletter
+"Thank you for subscribing to our newsletter.","Gracias por suscribirte a nuestro boletín informativo.",Magento_Newsletter
+"To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Para comenzar a recibir la newsletter, primero debes confirmar tu suscripción haciendo clic en el siguiente enlace:",Magento_Newsletter
+"Newsletter subscription success","Suscripción al boletín de noticias exitosa",Magento_Newsletter
+"You have been successfully subscribed to our newsletter.","Se ha suscrito con éxito a nuestra newsletter.",Magento_Newsletter
+"Newsletter unsubscription success","Cancelación de suscripción al boletín de noticias realizada con éxito",Magento_Newsletter
+"You have been unsubscribed from the newsletter.","Se ha dado de baja de la newsletter.",Magento_Newsletter
+"Newsletter Template","Plantilla para el boletín",Magento_Newsletter
+"Newsletter Section","Seccion del boletín informativo",Magento_Newsletter
+"Subscription Options","Opciones de suscripción",Magento_Newsletter
+"Allow Guest Subscription","Permitir suscripcion para invitados",Magento_Newsletter
+"Need to Confirm","Necesitas confirmar",Magento_Newsletter
+"Confirmation Email Sender","Confirmación del correo del remitente",Magento_Newsletter
+"Confirmation Email Template","Confirmación de la plantilla para el correo",Magento_Newsletter
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo electrónico elegida en función del tema de respaldo cuando ""Default"" es la opción seleccionada.",Magento_Newsletter
+"Success Email Sender","Correo enviado exitosamente",Magento_Newsletter
+"Success Email Template","Plantilla de email exitosamente",Magento_Newsletter
+"Unsubscription Email Sender","Remitente del correo electrónico de cancelación de suscripción",Magento_Newsletter
+"Unsubscription Email Template","Plantilla de correo electrónico para cancelar la suscripción",Magento_Newsletter
+"We found no problems.","No encontramos problemas.",Magento_Newsletter
+Subscriber,Suscriptor,Magento_Newsletter
+"Queue Start Date","Fecha de inicio del encolado",Magento_Newsletter
+"Queue Subject","Asunto para el encolado",Magento_Newsletter
+"Error Code","Código de error",Magento_Newsletter
+"Error Text","Texto de error",Magento_Newsletter
+"Queue Start","incio de la fila",Magento_Newsletter
+"Queue End","Fin de la fila",Magento_Newsletter
+Status,Estatus,Magento_Newsletter
+Processed,Procesado,Magento_Newsletter
+Recipients,Destinatarios,Magento_Newsletter
+Unsubscribe,"Darse de baja",Magento_Newsletter
+Delete,Eliminar,Magento_Newsletter
+Email,Correo electrónico,Magento_Newsletter
+Type,Tipo,Magento_Newsletter
+Guest,Invitado,Magento_Newsletter
+Customer,Cliente,Magento_Newsletter
+"Customer First Name","Nombre del cliente",Magento_Newsletter
+"Customer Last Name","Apellido del cliente",Magento_Newsletter
+"Not Activated","No activado",Magento_Newsletter
+Subscribed,Suscrito,Magento_Newsletter
+Unsubscribed,"Dado de baja",Magento_Newsletter
+Unconfirmed,"Sin confirmar",Magento_Newsletter
+Store,Tienda,Magento_Newsletter,Magento_Newsletter
+"Store View","Vista de tienda",Magento_Newsletter
+"Newsletter Subscriptions","Suscripciones al boletín informativo",Magento_Newsletter
+"We have updated your subscription.","Hemos actualizado tu suscripción.",Magento_Newsletter
+"Are you sure you want to delete the selected subscriber(s)?","¿Está seguro de que desea eliminar el suscriptor seleccionado(s)?",Magento_Newsletter
+"Cannot create a newsletter subscription.","No se puede crear la suscripción al boletín informativo.",Magento_Newsletter
+"Enter a valid email address.","Ingresa un correo electrónico válido.",Magento_Newsletter
+"Guests can not subscribe to the newsletter. You must create an account to subscribe.","Los invitados no pueden suscribirse al boletín. deberás crear una cuenta para suscribirte.",Magento_Newsletter
