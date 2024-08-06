@@ -79,60 +79,57 @@ services:
     networks:
       - back
 
-  elasticsearch:
-    image: summasolutions/elasticsearch:${ES_VERSION}
-    env_file: .env
+  redis:
+    hostname: redis.magento2.docker
+    image: 'redis:5.0'
     ports:
-      - 9200:9200
-      - 9300:9300
-    environment:
-      - discovery.type=single-node
-      - "ES_JAVA_OPTS=-Xms${ES_MEMORY} -Xmx${ES_MEMORY}"
+      - 6379:6379
+    volumes:
+      - ./volumes/redis:/data
+    sysctls:
+      net.core.somaxconn: 1024
+    ulimits:
+      nproc: 65535
+      nofile:
+        soft: 20000
+        hard: 40000
+    healthcheck:
+      test: 'redis-cli ping || exit 1'
+      interval: 30s
+      timeout: 30s
+      retries: 3
+    networks:
+      back:
+        aliases:
+          - redis.magento2.docker
+
+  elasticsearch:
+    hostname: elasticsearch.magento2.docker
+    #image: 'magento/magento-cloud-docker-opensearch:2.5-1.4.0'
+    image: 'magento/magento-cloud-docker-elasticsearch:7.11-1.2.4'
+    #build:
+    #  context: .
+    #  dockerfile: Dockerfile
     ulimits:
       memlock:
         soft: -1
         hard: -1
-      nofile:
-        soft: 65536
-        hard: 65536
+    environment:
+      - cluster.name=docker-cluster
+      - discovery.type=single-node
+      - discovery.seed_hosts=elasticsearch
+      - bootstrap.memory_lock=true
+      - DISABLE_SECURITY_PLUGIN=true
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
+    ports:
+      - 9200:9200
+      - 9600:9600
+    networks:
+      back:
+        aliases:
+          - elasticsearch.magento2.docker
     volumes:
-      - "./.docker/config/elasticsearch/volumes/elasticsearch:/usr/share/elasticsearch/data"
-    networks:
-      - back
-
-  redis-cache:
-    image: redis:${REDIS_CACHE_VERSION}
-    env_file: .env
-    ports:
-      - "6379"
-    networks:
-      - back
-
-  redis-session:
-    image: redis:${REDIS_SESSION_VERSION}
-    env_file: .env
-    ports:
-      - "6379"
-    networks:
-      - back
-
-  redis-fpc:
-    image: redis:${REDIS_FPC_VERSION}
-    env_file: .env
-    ports:
-      - "6379"
-    networks:
-      - back
-
-  mailhog:
-    image: mailhog/mailhog
-    env_file: .env
-    hostname: "mailhog"
-    ports:
-      - 1025
-      - "${MAILHOG_BINDED_PORT}:8025"
-    networks:
-      - back
+      - ./volumes/elasticsearch:/usr/share/elasticsearch/data
 
   rabbitmq:
     image: rabbitmq:3.9-management-alpine
