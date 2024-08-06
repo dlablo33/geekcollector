@@ -4,21 +4,10 @@ services:
   web:
     image: webdevops/php-apache-dev:ubuntu-16.04
     container_name: web
-    restart: always
-    user: application
-    environment:
-      - WEB_ALIAS_DOMAIN=geekcollector.mx
-      - WEB_DOCUMENT_ROOT=/app/pub
-      - PHP_DATE_TIMEZONE=EST
-      - PHP_DISPLAY_ERRORS=1
-      - PHP_MEMORY_LIMIT=2048M
-      - PHP_MAX_EXECUTION_TIME=300
-      - PHP_POST_MAX_SIZE=500M
-      - PHP_UPLOAD_MAX_FILESIZE=1024M
     volumes:
       - /home/geekcollector/:/app:cached
     ports:
-      - "127.0.0.1:9000"
+      - "127.0.0.1:80"
       - "127.0.0.1:443"
     links:
       - mysql
