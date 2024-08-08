@@ -122,14 +122,13 @@ services:
       - DISABLE_SECURITY_PLUGIN=true
       - ES_JAVA_OPTS=-Xms512m -Xmx512m
     ports:
-      - 9200:9200
-      - 9600:9600
+      - 127.0.0.1:9200:9200
+      - 127.0.0.1:9600:9600
     networks:
       back:
         aliases:
           - elasticsearch.magento2.docker
     volumes:
-      - ./volumes/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
       - ./volumes/elasticsearch:/usr/share/elasticsearch/data
 
   rabbitmq:
