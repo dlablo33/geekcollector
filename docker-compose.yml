@@ -129,6 +129,7 @@ services:
         aliases:
           - elasticsearch.magento2.docker
     volumes:
+      - ./volumes/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
       - ./volumes/elasticsearch:/usr/share/elasticsearch/data
 
   rabbitmq:
@@ -142,6 +143,16 @@ services:
       - RABBITMQ_DEFAULT_USER=guest
       - RABBITMQ_DEFAULT_PASS=guest
       - RABBITMQ_DEFAULT_VHOST=/
+    networks:
+      - back
+
+  mailhog:
+    image: mailhog/mailhog
+    env_file: .env
+    hostname: "mailhog"
+    ports:
+      - 1025
+      - "${MAILHOG_BINDED_PORT}:8025"
     networks:
       - back
 
