@@ -46,10 +46,10 @@
 @h1__margin-bottom__desktop: @indent__xl;
 
 //  Footer
-@footer__background-color: @color-gray-light01;
+@footer__background-color: #2d2d2c;
 @footer-links-separator-border-color: @color-gray-light4;
-@footer-links-color: @color-gray34;
-@footer-links-color-hover: @color-gray20;
+@footer-links-color: @color-white;
+@footer-links-color-hover: #fc5900;
 @footer-links-color-current: @primary__color__light;
 
 //  Layered navigation
@@ -282,7 +282,7 @@
 
     .copyright {
         .lib-css(background-color, @copyright__background-color);
-        .lib-css(color, @color-black);
+        .lib-css(color, @color-white);
         box-sizing: border-box;
         display: block;
         padding: @indent__s;
@@ -585,6 +585,7 @@
         .action.switch {
             .lib-button-reset();
             .lib-css(color, @color-white);
+
         }
 
         .header.links {

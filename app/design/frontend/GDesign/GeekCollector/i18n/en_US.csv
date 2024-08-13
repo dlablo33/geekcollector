@@ -142,7 +142,6 @@ Website,Website
 "We could not preselect pickup location based on available information, please select it manually.","No pudimos preseleccionar un punto de retiro basado en la información disponible, por favor seleccioná uno."
 "Search with postcode or city name...","Buscá por tu código postal o ciudad..."
 "Please provide postcode or city name to find nearest pickup locations.","Cargá tu ciudad o código postal para encontrar el punto de retiro más cercano."
-"Ship Here","Continuar",module,Magento_InventoryInStorePickupFrontend
 "We were unable to find nearby locations for provided search query.","No pudimos encontrar un punto de retiro cercano a los datos ingresados.",module,Magento_InventoryInStorePickupFrontend
 "Select Other","Elegir otro",module,Magento_InventoryInStorePickupFrontend
 "Your Select Store Is","Tu punto de retiro es",module,Magento_InventoryInStorePickupFrontend
@@ -964,7 +963,7 @@ Remove,Eliminar,Magento_Checkout
 "Place Order","Realiza pedido",Magento_Checkout
 "Forgot an Item?","¿Olvidaste un artículo?",Magento_Checkout
 "Edit Your Cart","Editar Carrito",Magento_Checkout
-"Ship Here","Enviar aquí",Magento_Checkout
+"Ship Here","Enviar aquí"
 "Ship To:","Enviar Para:",Magento_Checkout
 edit,editar,Magento_Checkout
 "Order Summary","Resumen del Pedido",Magento_Checkout
@@ -1547,7 +1546,6 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "All Store Views","Todas las vistas de tienda",module,Magento_Backend
 "What is this?","¿Qué es esto?",module,Magento_Backend
 "Save Account","Guardar cuenta",module,Magento_Backend
-"My Account","Mi Cuenta",module,Magento_Backend
 "Account Information","Información de la cuenta",module,Magento_Backend
 "User Name","Usuario",module,Magento_Backend
 "First Name","Nombre",module,Magento_Backend
@@ -4099,7 +4097,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Ha agregado %1 al <a href=""%2"">carrito de compras</a>.",module,Magento_Checkout
 "Loading...","Cargando...",module,Magento_Checkout
 "Order #","Pedido #",module,Magento_Checkout
-"Proceed to Checkout","Pasar por caja",module,Magento_Checkout
+"Proceed to Checkout","Ir a Pagar",module,Magento_Checkout
 "Product Name","Nombre del Producto",module,Magento_Checkout
 "Incl. Tax","Incl. impuestos",module,Magento_Checkout
 "Your order number is: %1.","Su número de pedido es: %1.",module,Magento_Checkout
@@ -4148,7 +4146,6 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Place Order","Realizar pedido",module,Magento_Checkout
 "Forgot an Item?","¿Ha olvidado un elemento?",module,Magento_Checkout
 "Edit Your Cart","Editar carrito",module,Magento_Checkout
-"Ship Here","Entregar aquí",module,Magento_Checkout
 "Select Method","Select Method",module,Magento_Checkout
 "Method Title","Method Title",module,Magento_Checkout
 "Carrier Title","Carrier Title",module,Magento_Checkout
@@ -5822,7 +5819,6 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Newsletters","Boletines informativos",module,Magento_Customer
 "You are subscribed to ""General Subscription"".","Usted está subscrito a ""Subscripción General"".",module,Magento_Customer
 "or","o",module,Magento_Customer
-"My Account","Mi Cuenta",module,Magento_Customer
 "Default Addresses","Direcciones (predeterminado)",module,Magento_Customer
 "Change Billing Address","Cambiar la dirección de facturación",module,Magento_Customer
 "You have no default billing address in your address book.","No tiene ninguna dirección de facturación por defecto en su libreta de direcciones.",module,Magento_Customer
@@ -7807,7 +7803,6 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "The following items have been purchased from your gift registry ""%registry_name"":","Los siguientes artículos comprados en su registro de regalo ""% registry_name"":",module,Magento_GiftRegistry
 "You can sign in to your account to view more details about this gift registry.","Para ver más detalles sobre este registro de regalo puede firmar su cuenta.",module,Magento_GiftRegistry
 "Ship to Recipient Address","Enviar a la dirección del destinatario",module,Magento_GiftRegistry
-"Ship Here","Entregar aquí",module,Magento_GiftRegistry
 "Recipient Address","Dirección del destinatario",module,Magento_GiftRegistry
 "Use gift registry shipping address","Utilizar la dirección de envío de registro de regalo",module,Magento_GiftRegistry
 "The only place to change the number of gift registry items is on the Gift Registry Info page or directly in your cart.","El único lugar para cambiar el número de registro de artículos de regalo está en la página de información de registro de regalo o directamente en el carrito.",module,Magento_GiftRegistry
@@ -9290,7 +9285,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "No shipping information available","No hay información disponible sobre el envío",module,Magento_NegotiableQuote
 "Select a shipping address from your address book.","Seleccionar dirección de envío de la agenda.",module,Magento_NegotiableQuote
 "Send for Review","Enviar para revisión",module,Magento_NegotiableQuote
-"Proceed to Checkout","Pasar por caja",module,Magento_NegotiableQuote
+"Proceed to Checkout","Ir a Pagar",module,Magento_NegotiableQuote
 "Close quote","Cerrar presupuesto",module,Magento_NegotiableQuote
 "Delete","Eliminar",module,Magento_NegotiableQuote
 "Order Number:","Order Number:",module,Magento_NegotiableQuote
@@ -9345,7 +9340,6 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Show All Quotes","Show All Quotes",module,Magento_NegotiableQuote
 "Show My Quotes","Show My Quotes",module,Magento_NegotiableQuote
 "Edit","Edit",module,Magento_NegotiableQuote
-"Ship Here","Ship Here",module,Magento_NegotiableQuote
 "The shipping address specified on the quote was deleted from your Address Book.","The shipping address specified on the quote was deleted from your Address Book.",module,Magento_NegotiableQuote
 "To proceed with the checkout, go ","To proceed with the checkout, go ",module,Magento_NegotiableQuote
 "back to the quote","back to the quote",module,Magento_NegotiableQuote
@@ -9385,7 +9379,7 @@ Ahora puede seleccionar la fecha de caducidad que desee.",module,Magento_Negotia
 "Allowed file formats: %1.","Allowed file formats: %1.",module,Magento_NegotiableQuote
 "Quote request rules","Solicitar reglas del pedido",module,Magento_NegotiableQuote
 "Coupon codes and gift cards are not allowed on quotes. Choose whether you'd like to keep the coupon code/gift card without requesting a quote, or request a quote without the coupon code/gift card.","Los cupones y tarjetas regalo no se permiten en los presupuestos. Elige si deseas usar el cupón/tarjeta regalo o pedir un presupuesto sin ello.",module,Magento_NegotiableQuote
-"Go to Checkout","Ir a pagar",module,Magento_NegotiableQuote
+"Go to Checkout","Ir a Pagar",module,Magento_NegotiableQuote
 "Save","Guardar",module,Magento_NegotiableQuote
 "The shopping cart isn't empty","El carrito de compra está vacío",module,Magento_NegotiableQuote
 "You have items in your shopping cart. Would you like to merge items in this order with items of this shopping cart or replace them?","Tienes artículos en tu carrito de compras. ¿Le gustaría combinar artículos en este pedido con artículos de este carrito de compras o reemplazarlos?",module,Magento_NegotiableQuote
@@ -16163,7 +16157,6 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","La transacción ha sido cancelada",module,Magento_Worldpay
 "Transaction has been declined","La operación ha sido declinada",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","El tipo de respuesta es incorrecto. Verifique el tipo y vuelva a intentarlo.",module,Magento_Worldpay
-"My Account","My Account",theme,frontend/Magento/blank
 "Now Shopping by","Ahora filtrando por",theme,frontend/Magento/luma
 "Previous","Anterior",theme,frontend/Magento/luma
 "Remove","Quitar",theme,frontend/Magento/luma
