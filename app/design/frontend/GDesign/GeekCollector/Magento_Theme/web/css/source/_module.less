@@ -47,7 +47,7 @@
 
 //  Footer
 @footer__background-color: #2d2d2c;
-@footer-links-separator-border-color: @color-gray-light4;
+@footer-links-separator-border-color: @color-gray-separator-dark;
 @footer-links-color: @color-white;
 @footer-links-color-hover: #fc5900;
 @footer-links-color-current: @primary__color__light;
@@ -90,7 +90,8 @@
     //  ---------------------------------------------
 
     .page-header {
-        .lib-css(background-color, @header__background-color);
+        //.lib-css(background-color, @header__background-color);
+        .lib-css(background-color, @footer__background-color);
         border-bottom: 1px solid @border-color__base;
         margin-bottom: @indent__base;
 
@@ -508,6 +509,7 @@
     .page-header {
         border: 0;
         margin-bottom: 0;
+        background: @footer__background-color;
 
         .panel.wrapper {
             border-bottom: 1px solid @secondary__color;
