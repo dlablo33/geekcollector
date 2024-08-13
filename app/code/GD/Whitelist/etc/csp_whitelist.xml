@@ -4,7 +4,9 @@
         <policy id="script-src">
             <values>
                 <value id="www.momentjs.com" type="host">www.momentjs.com</value>
-                <value id="www.openpay.mx" type="host">*.openpay.mx</value>
+                <value id="all.momentjs.com" type="host">*.momentjs.com</value>
+                <value id="www.openpay.mx" type="host">www.openpay.mx</value>
+                <value id="all.openpay.mx" type="host">*.openpay.mx</value>
             </values>
         </policy>
     </policies>

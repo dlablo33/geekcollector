@@ -94,7 +94,7 @@ Website,Website
 "Delete items","Eliminar elementos"
 "Newsletter","Newsletter",module,Magento_Newsletter
 "Search entire store here...","¿Qué estás buscando?",module,Magento_Search
-"My Account","Mi cuenta",module,SummaTheme_Checkout
+"My Account","Mi cuenta"
 "Hello, %1!","¡Hola, %1!"
 "Welcome, %1!","¡Hola, %1!"
 "Discounts will be applied on cart page.","Los descuentos se aplicarán en el carrito"
