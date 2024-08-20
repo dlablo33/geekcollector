@@ -73,8 +73,9 @@ services:
       dockerfile: Dockerfile
     volumes:
       - .:/var/www/html
-      #- ./php/local.ini:/usr/local/etc/php/conf.d/local.ini
+      - .docker/config/php/phpc.ini:/usr/local/etc/php/php.ini-production
     stdin_open: true
+    working_dir: /var/www/html
     tty: true
     networks:
       - back
