@@ -12,7 +12,7 @@
     @_nav-background-color: @navigation__background,
     @_nav-border: @navigation__border,
     @_nav-level0-font-size: @navigation-level0-item__font-size,
-    @_nav-level0-font-weight: @navigation-level0-item__font-weight,
+    @_nav-level0-font-weight: 400,/*@navigation-level0-item__font-weight*/
     @_nav-level0-item-line-height: @navigation-level0-item__line-height,
     @_nav-level0-item-margin: @navigation-level0-item__margin,
     @_nav-level0-item-padding: @navigation-level0-item__padding,
@@ -134,11 +134,11 @@
             }
         }
 
-        li.level0 {
+        /*li.level0 {
             &:last-child {
                 .lib-css(border-bottom, @_nav-level0-item-border);
             }
-        }
+        }*/
 
         .submenu {
             > li {

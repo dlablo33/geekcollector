@@ -3,4 +3,5 @@
     <body>
         <move element="top.search" destination="header.panel" before="top.links" />
     </body>
+    <referenceBlock name="advanced-search-link" remove="true" />
 </page>

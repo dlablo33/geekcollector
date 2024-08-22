@@ -33,8 +33,8 @@
 
 @addto-color: @color-gray40;
 @addto-hover-color: @primary__color;
-@minicart-icons-color: @theme__color__primary;
-@minicart-icons-color-hover: @color-gray92;
+/*@minicart-icons-color: @theme__color__primary;
+@minicart-icons-color-hover: @color-gray92;*/
 
 @price-color: @color-gray34;
 @price-size: 22px;
@@ -490,6 +490,12 @@
     .cms-content .data-table {
         .lib-table-responsive();
     }
+
+    .page-header{
+        .panel.wrapper {
+            display: none;
+        }
+    }
 }
 
 //
@@ -509,7 +515,7 @@
     .page-header {
         border: 0;
         margin-bottom: 0;
-        background: @footer__background-color;
+        /*background: @footer__background-color;*/
 
         .panel.wrapper {
             border-bottom: 1px solid @secondary__color;

@@ -146,29 +146,30 @@
 
         .header.links {
             .lib-list-reset-styles();
-            border-bottom: 1px solid @color-gray82;
+            border-bottom: 1px solid @color-gray-separator-dark;
 
             li {
                 font-size: 1.6rem;
                 margin: 0;
 
                 &.greet.welcome {
-                    border-top: 1px solid @color-gray82;
-                    font-weight: @font-weight__bold;
+                    .lib-css(color, @color-orange-light);
+                    border-top: 1px solid @color-gray-separator-dark;
+                    font-weight: 400;
                     padding: .8rem @submenu__padding-left;
                 }
 
                 > a {
-                    border-top: 1px solid @color-gray82;
+                    border-top: 1px solid @color-gray-separator-dark;
                 }
             }
 
             a,
             a:hover {
-                .lib-css(color, @navigation-level0-item__color);
+                .lib-css(color, @color-gray95);
                 .lib-css(text-decoration, @navigation-level0-item__text-decoration);
                 display: block;
-                font-weight: @font-weight__bold;
+                font-weight: 400;
                 padding: .8rem @submenu__padding-left;
             }
 
