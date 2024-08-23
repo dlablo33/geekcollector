@@ -11,7 +11,8 @@
             "dealerdirect/phpcodesniffer-composer-installer": true,
             "laminas/laminas-dependency-plugin": true,
             "magento/*": true,
-            "php-http/discovery": true
+            "php-http/discovery": true,
+            "cweagans/composer-patches": true
         },
         "preferred-install": "dist",
         "sort-packages": true
@@ -44,6 +45,7 @@
         "magento/product-community-edition": "2.4.6-p6",
         "magento/quality-patches": "^1.1",
         "magento/sample-data-media": "100.4.*",
+        "mageplaza/module-smtp": "^4.7",
         "openpay/magento2-cards": "3.5.*"
     },
     "autoload": {
@@ -110,6 +112,9 @@
         "patches": {
             "magento/module-elasticsearch": {
                 "Fix n XSD Config File": "patches/elasticsearch.patch"
+            },
+            "magento/module-page-builder": {
+                "Magento 2.4.4+ Bug #37514: Page builder CMS block content save issue": "patches/page-builder-cms-block-update.patch"
             }
         }
     }
