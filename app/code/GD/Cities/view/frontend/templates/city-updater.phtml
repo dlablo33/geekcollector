@@ -1,0 +1,14 @@
+<?php
+/** @var \GD\Cities\Block\Checkout\CityUpdater $block */
+?>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "GD_Cities/js/city-updater": {
+                "region_id":<?=$block->getRegionId()?>,
+                "city":"<?=$block->getCity()?>",
+                "cities":<?=$block->getDistricts()?>
+            }
+        }
+    }
+</script>
