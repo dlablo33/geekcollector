@@ -346,8 +346,12 @@ return [
         'Magento_WishlistAnalytics' => 1,
         'Magento_WishlistGraphQl' => 1,
         'Magento_WishlistSampleData' => 1,
-        'GD_Whitelist' => 1,
+        'GD_Cities' => 1,
+        'GD_Installers' => 1,
         'Openpay_Cards' => 1,
+        'Mageplaza_Core' => 1,
+        'Mageplaza_Smtp' => 1,
+        'GD_Whitelist' => 1,
         'PayPal_Braintree' => 1,
         'PayPal_BraintreeGraphQl' => 1,
         'Temando_ShippingRemover' => 1

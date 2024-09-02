@@ -9,7 +9,7 @@ Database user does not have enough privileges. Please make sure SELECT, INSERT, 
 Solucion:
 Entrar al contenedor de Mysql y ejecutar el comando:
  - FLUSH PRIVILEGES
- - GRANT CREATE, CREATE USER, SELECT, RELOAD  ON *.* TO 'dangrimaldo'@'%';
+ - GRANT CREATE, CREATE USER, SELECT, RELOAD  ON *.* TO 'geekuser'@'%';
  - FLUSH PRIVILEGES
 
 

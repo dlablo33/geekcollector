@@ -115,6 +115,9 @@
             },
             "magento/module-page-builder": {
                 "Magento 2.4.4+ Bug #37514: Page builder CMS block content save issue": "patches/page-builder-cms-block-update.patch"
+            },
+            "magento/module-advanced-sales-rule": {
+                "Mdobe Commerce on cloud infrastructure 2.2.3: Fix para corregir el error del Area Code DataPatachs": "patches/page-builder-cms-block-update.patch"
             }
         }
     }
