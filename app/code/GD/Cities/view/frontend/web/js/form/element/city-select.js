@@ -37,13 +37,13 @@ define([
             let options = [],
                 cityValue,
                 cities,
-                regions = this.getCitiesByRegion(regionId);
+                regions = citiesModel(regionId);
 
             if (regions && regions.length) {
                 cities = regions;
 
                 options = cities.map(function (city) {
-                    return {title: city.default_name, value: city.id, labeltitle: city.default_name, label: city.default_name}
+                    return {title: city.value, value: city.value, labeltitle: city.value, label: city.value}
                 })
             }
 
@@ -63,26 +63,7 @@ define([
                 }
             }
             this.options(options);
-        },
-
-        getCitiesByRegion: function(id){
-            let dataCities = [];
-
-            $.ajax({
-                url : urlBuilder.build('rest/V1/zonification/city/list/' + id),
-                type : 'GET',
-                async: false,
-                showLoader: true,
-                dataType:'json',
-                success : function(data) {
-                    dataCities = data;
-                },
-                error : function(request,error) {
-                    console.log("Cities service error...");
-                }
-            });
-
-            return dataCities;
         }
+
     });
 });
