@@ -1,4 +1,4 @@
-version: "2"
+version: "3"
 
 services:
   web:
@@ -143,16 +143,6 @@ services:
       - RABBITMQ_DEFAULT_USER=guest
       - RABBITMQ_DEFAULT_PASS=guest
       - RABBITMQ_DEFAULT_VHOST=/
-    networks:
-      - back
-
-  mailhog:
-    image: mailhog/mailhog
-    env_file: .env
-    hostname: "mailhog"
-    ports:
-      - 1025
-      - "${MAILHOG_BINDED_PORT}:8025"
     networks:
       - back
 
